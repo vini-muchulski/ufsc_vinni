@@ -1,2 +1,2 @@
 # ufsc_vinni
-códigos
+códigos e atividades realizadas em aulas de programação na UFSC
