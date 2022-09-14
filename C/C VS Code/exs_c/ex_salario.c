@@ -7,6 +7,6 @@ int main(){
     printf("Digite seu salario: \n");
     scanf("%f", &salario);
     novo_salario = salario*1.15;
-    printf("Seu novo salario reajustado eh de %f reais", novo_salario);
+    printf("Seu novo salario reajustado eh de %.2f reais", novo_salario);
     return 0;
     }
