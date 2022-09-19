@@ -21,7 +21,7 @@ media = (a+b+c)/3;
 
 printf("A media foi %.2f \n", media);
 
- if (ausencia>72){
+ if (ausencia>72*(0.25)){
  printf("REPROVADO POR FALTAS \n");
  }
  else{
