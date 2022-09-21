@@ -34,7 +34,7 @@ switch(codigo)
         break;
 
     default:
-        printf("ERRO! Digite um cÛdigo v·lido!");
+        printf("ERRO! Digite um c√≥digo v√°lido!");
         break;
 }
 
