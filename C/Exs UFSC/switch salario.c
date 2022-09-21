@@ -34,7 +34,7 @@ switch(codigo)
         break;
 
     default:
-        printf("ERRO! Digite um código válido!");
+        printf("ERRO! Digite um codigo valido!");
         break;
 }
 
