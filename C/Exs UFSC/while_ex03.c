@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 int main(){
 int i;
 float notaadd, notastotais;
@@ -10,18 +8,19 @@ i=0;
 notaadd = 0;
 notastotais = 0;
 
-while(i<10){
-    i++;
- printf("Digite a nota %d: \n", i);
+while(notaadd != -1){
+ printf("Digite a nota %d [ -1 Break ]: \n", i);
  scanf("%f",&notaadd);
 
- notastotais = notaadd + notastotais;
- printf("%.2f\n",notastotais);
+ if(notaadd != -1){
+  i++;
+  notastotais = notaadd + notastotais;
+  }
+
 }
+notastotais = notastotais/i;
 
-notastotais = notastotais/10;
-
-printf("A media foi %.2f",notastotais);
+printf("A media foi %.2f - Ao todo %d alunos foram cadastrados",notastotais, i);
 
 return 0;
 }
