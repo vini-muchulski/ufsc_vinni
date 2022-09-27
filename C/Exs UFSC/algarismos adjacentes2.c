@@ -1,5 +1,5 @@
 #include <stdio.h>
-// soma dos algarismos de um numero
+// digite um numero inteiro e verifique se possui dois algarismos adjancentes
 int main(){
 int valor,a, n,b, soma;
 
