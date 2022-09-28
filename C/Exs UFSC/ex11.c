@@ -9,6 +9,6 @@ for (i = -10;i<=20;i =i + 5){
  soma = soma + i;
 }
 
-printf("%d", soma);
+printf("%d \n", soma);
 return 0;
 }
