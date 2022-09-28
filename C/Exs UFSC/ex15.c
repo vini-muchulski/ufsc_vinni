@@ -8,6 +8,7 @@ aprovados = 0;
 reprovados = 0;
 
 for(i=1;i<=4;i++){
+        printf("Aluno %d \n", i);
         for (c = 0; c <=3; c++){
     printf("Digite a nota: \n");
     scanf("%d",&nota);
@@ -32,6 +33,8 @@ for(i=1;i<=4;i++){
         }
 
 }
+
+printf("Alunos aprovados: %d Alunos reprovados: %d", aprovados,reprovados);
 
 return 0;
 }
