@@ -16,14 +16,16 @@ for(i=1;i<=4;i++){
     somanotas = somanotas + nota;
 
     if (c==2){
-        media = somanotas/5;
+        media = somanotas/4;
 
         if (media>=6){
             aprovados = aprovados +1;
+            printf("Aprovados mais 1");
 
         }
-        if (media<6){
+        else{
             reprovados = reprovados +1;
+            printf("Reprovados mais 1");
         }
 
         break;
