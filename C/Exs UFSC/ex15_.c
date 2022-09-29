@@ -16,7 +16,7 @@ for(i=1;i<=4;i++){
     scanf("%f",&nota);
 
     if (nota<0 || nota>10){
-            printf("Nota inválida, digite um valor entre 0 e 10")
+            printf("Nota invalida, digite um valor entre 0 e 10");
         break;
     }
 
