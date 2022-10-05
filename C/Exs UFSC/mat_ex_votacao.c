@@ -22,7 +22,7 @@ for (i=0;i<tam;i++){
 
 }
 for (i=0;i<tam;i++){
-printf("CANDIDATO %i   VOTOS %i",i,candidatos[i]);
+printf("CANDIDATO %i   VOTOS %i",i+1,candidatos[i]);
 printf("\n");
 }
 
