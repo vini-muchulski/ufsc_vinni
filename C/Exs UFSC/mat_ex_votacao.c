@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define tam 5
+#define tam 10
 
 
 /* • Programa recebe as escolhas dos 10 eleitores e calcula os votos para 5
@@ -21,7 +21,7 @@ for (i=0;i<tam;i++){
     candidatos[voto-1] = candidatos[voto-1] + 1;
 
 }
-for (i=0;i<tam;i++){
+for (i=0;i<5;i++){
 printf("CANDIDATO %i   VOTOS %i",i+1,candidatos[i]);
 printf("\n");
 }
