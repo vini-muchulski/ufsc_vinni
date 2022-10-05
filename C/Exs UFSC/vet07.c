@@ -10,10 +10,10 @@ int main(){
      for(i=0; i<15; i++){
         if(Vet[i]==' '){
             Vet[i]=Vet[i+1];
-            
+
         }
     }
-    printf("String sem espacos em branco:%s \n", Vet );
+    printf("String sem espacos em branco: \n %s \n", Vet );
 
     return 0;
 }
