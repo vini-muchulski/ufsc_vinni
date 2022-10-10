@@ -17,7 +17,7 @@ printf("\n");
 
 
 
-printf("Digite o numero da pessoa: \n");
+printf("Digite o numero da pessoa [ de 1 a 5]: \n");
 scanf("%i", &k);
 
 for (i=k-1;i<=k-1;i++){
@@ -28,15 +28,14 @@ printf("\n");
 
 }
 
-printf("Pessoas que ela conhece = %d", queElaConhece);
+printf("Pessoas que ela conhece = %d \n", queElaConhece);
 
 
  for(j=0;j<5;j++){
 for (i=k-1;i<=k-1;i++){
     aconhecem += matriz[j][i];
-    printf("\n linha %d coluna %d",i,j);
+
 }
-printf("\n");
 
 }
 
