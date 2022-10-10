@@ -45,4 +45,5 @@ return 0;
 }
 
 
-/* Sim, basta realizar a soma das colunas e comparar o valor de cada uma, a que tive o maior valores significa que é a que possui mais pessoas que a conhecem */
+/* Sim, basta realizar a soma das colunas e comparar o valor de cada uma, a que tive o maior valores significa
+que é a que possui mais pessoas que a conhecem e a pessoa que possuir menor é a menos conhecida */
