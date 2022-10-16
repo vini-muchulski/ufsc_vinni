@@ -30,8 +30,8 @@ int moda;
                 cont += vet[i];
             }
             media = (float) cont/tamanho;
-            printf("media = %f, cont = %d- \n", media,cont);
-
+            printf("media = %f, cont = %d \n", media,cont);
+            printf("\n");
 
             // conta quantas vezes cada numero apareceu
             for (i=0;i<tamanho;i++){
@@ -45,12 +45,13 @@ int moda;
                     vetAux[i] = rep_var;
                     rep_var = 0;
             }
-
+            
 
             // imprime os vetores com a quantidade de repeticao de cada valor
             for(i=0;i<tamanho;i++){
                 printf(" %d ", vetAux[i]);
             }
+            printf("\n");
 
             // gera a moda
             for(i=0;i<tamanho;i++){
@@ -67,7 +68,7 @@ int moda;
                 }
             }
 
-            printf("MODA  = %i - Se repetiu %i vezes", vet[posicao],maior);
+            printf("MODA  = %i - \nREPETIU %i VEZES", vet[posicao],maior);
 
                 return 0;
             }
