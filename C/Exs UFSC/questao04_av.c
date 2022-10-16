@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 int main(){
-int matriz[5][5] = {{0,1,1,0,0},{0,0,1,0,0},{1,0,0,1,1},{0,0,1,0,1},{1,0,1,0,0}};
+int matriz[5][5] = {{0,1,1,0,0},
+                    {0,0,1,0,0},
+                    {1,0,0,1,1},
+                    {0,0,1,0,1},
+                    {1,0,1,0,0}};
 
 int k,i,j;
 int aconhecem = 0;
@@ -17,10 +21,10 @@ printf("\n");
 
 
 
-printf("Digite o numero da pessoa [ de 1 a 5]: \n");
+printf("Digite o numero da pessoa [ de 0 a 4]: \n");
 scanf("%i", &k);
 
-for (i=k-1;i<=k-1;i++){
+for (i=k;i<=k;i++){
     for(j=0;j<5;j++){
     queElaConhece += matriz[i][j];
 }
@@ -32,7 +36,7 @@ printf("Pessoas que ela conhece = %d \n", queElaConhece);
 
 
  for(j=0;j<5;j++){
-for (i=k-1;i<=k-1;i++){
+for (i=k;i<=k;i++){
     aconhecem += matriz[j][i];
 
 }
