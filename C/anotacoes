@@ -1,0 +1,3 @@
+recursao
+é um metodo para resovler problemas que envolve quebrar o problema em subproblemas ate atingir um problema simples o bastante que possa ser resolvido trivialmente
+Em geral,  a recursao envolve uma funcao que chama ela mesma
