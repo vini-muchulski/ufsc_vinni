@@ -8,3 +8,9 @@ tres funcoes
 1- deve possuir um caso base
 2- deve modificar o seu estado e se aproxiamr do caso base
 3- deve chamar a si msm
+
+
+escreva uma funcao que calcule a potencia de um numero
+dadostais numeros A e N, calcule a A**N
+
+versao interativa e recurssiva
