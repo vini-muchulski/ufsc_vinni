@@ -17,10 +17,16 @@ int main(){
 }
 
 int fatorial(int n){
+    if(n<0){
+        printf("Nao existe fatorial de numero negativo");
+       
+    }
+    else{
     int k,i;
     k = 1;
     for(i=n;i>1;i--){
         k = k*i;
     }
     return k;
+    }
 }
