@@ -21,7 +21,10 @@ while (chute>=0){
     if (chute == -1){
         break;
     }
-    compara_chute(chute,alet);
+    
+    if (compara_chute(chute,alet) == -1){
+        break;
+    }
 }
 
     return 0;
@@ -41,6 +44,7 @@ int aleatorio(){
         
     nrand = 1 + rand()% 10;
 
+    printf("nrand %d \n", nrand);
     return nrand;
 }
 int compara_chute(int chute, int nrand){
@@ -56,6 +60,7 @@ int compara_chute(int chute, int nrand){
     }
     else{
         printf("Voce acertou!  \n");
+        return -1;
         
     }
 
