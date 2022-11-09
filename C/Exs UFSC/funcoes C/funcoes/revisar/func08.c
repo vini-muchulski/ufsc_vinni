@@ -12,11 +12,13 @@ int main(){
 int i;
 int chute = 0;
 int nivel;
-int alet = aleatorio();
+int dificuldades_tentativas;
+int aleat = aleatorio();
+int cont = 0;
 
-printf("Digite o nivel de dificuldade ---- \n1 = Facil \n2 = Medio \n3 = Dificil\n");
+printf("Digite o nivel de dificuldade ---- \n1 = Facil - 8 tentativas \n2 = Medio - 5 tentativas \n3 = Dificil - 3 tentativas\n");
 scanf("%d",&nivel);
-dificuldade(nivel);
+dificuldades_tentativas = dificuldade(nivel);
 
 
 
@@ -29,9 +31,11 @@ while (chute>=0){
         break;
     }
     
-    if (compara_chute(chute,alet) == -1){
+    if (compara_chute(chute,aleat,dificuldades_tentativas-cont) == -1){
+        
         break;
     }
+    cont++;
 }
 
     return 0;
@@ -41,21 +45,25 @@ while (chute>=0){
 
 
 int dificuldade(int nivel){
+    int tentativas;
+
     if(nivel ==1){
-        int static tentativas = 8;
+          tentativas = 8;
         
     }
 
     if(nivel ==2){
-        int static tentativas = 5;
+          tentativas = 5;
     }
 
     if(nivel ==3){
-        int static tentativas = 3;
+          tentativas = 3;
     }
+    
     return tentativas;
     
 }
+
 
 int aleatorio(){
     int i;
@@ -67,13 +75,13 @@ int aleatorio(){
     printf("nrand %d \n", nrand);
     return nrand;
 }
-int compara_chute(int chute, int nrand){
-    
+int compara_chute(int chute, int nrand, int tentativas){
+        int chutes = tentativas;
     
     if( chute != nrand){
-        tentativas--;
-        printf("Voce errou! Restam %i tentativas \n", tentativas);
-        if (tentativas>0){
+        chutes--;
+        printf("Voce errou! Restam %i tentativas \n", chutes);
+        if (chutes>0){
         if(chute>nrand){
             printf("O valor chutado eh maior que o numero gerado \n");
         }
