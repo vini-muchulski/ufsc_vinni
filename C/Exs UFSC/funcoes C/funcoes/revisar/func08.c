@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-int static tentativas = 5;
+
 
 int main(){
 
@@ -69,7 +69,7 @@ int aleatorio(){
 }
 int compara_chute(int chute, int nrand){
     
-
+    
     if( chute != nrand){
         tentativas--;
         printf("Voce errou! Restam %i tentativas \n", tentativas);
@@ -92,4 +92,3 @@ int compara_chute(int chute, int nrand){
     }
 
 }
-

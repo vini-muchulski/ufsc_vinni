@@ -23,8 +23,8 @@ int main(){
 
 int max_min(int n1,int n2){
 
-    static int max;
-    static int min;
+    static int max = -99999;
+    static int min = 99999;
 
     if(n1<n2 && n1<min){
         min = n1;
