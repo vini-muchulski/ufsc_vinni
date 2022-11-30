@@ -1,12 +1,13 @@
-/*• Criar vetor a com 10 elementos e vetor b com 5 elementos int.
-• Criar função e fazer uso da função que substitui todos os elementos 
-negativos do vetor a pelo valor do maior elemento do vetor b.
-• Fazer uso da função auxiliar para achar o maior elemento de um vetor.*/
+/*• Criar vetor a com 10 elementos e vetor b com 5 elementos do tipo int.
+• Criar função que recebe dois vetores (a e b) e substitui todos os 
+elementos ímpares em vetor a pelo menor elemento do vetor b.
+• Fazer uso da função auxiliar para achar o maior elemento de um vetor.
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
 
-int maior_valor(int *b, int n);
+int menor_valor(int *b, int n);
 int substitui(int *a,int *b,int nA,int nB);
 
 
@@ -22,7 +23,7 @@ int substitui(int *a,int *b,int nA,int nB);
     int x = substitui(vet_a,vet_b,tamanho_a,tamanho_b);
 
     for(i=0;i<tamanho_a;i++){
-        printf("%d ", vet_a[i]);
+        printf("%4d ", vet_a[i]);
     }
 
 
@@ -30,32 +31,32 @@ int substitui(int *a,int *b,int nA,int nB);
 }
 
 
-int maior_valor(int *b, int n){
+int menor_valor(int *b, int n){
 
     int i;
-    int maior;
+    int menor;
 
     for(i=0;i<n;i++){
         if (i ==0){
-            maior = b[i];
+            menor = b[i];
         }
         else{
-            if (b[i]>maior){
-                maior = b[i];
+            if (b[i]<menor){
+                menor = b[i];
             }
         }
     }
-    return maior;
+    return menor;
 }
 
 int substitui(int *a,int *b,int nA,int nB){
     int i;
-    int maior = maior_valor(b, nB);
+    int menor = menor_valor(b, nB);
 
     for(i=0;i<nA;i++)
     {
-        if(a[i]<0){
-            a[i] = maior;
+        if(a[i]%2 != 0){
+            a[i] = menor;
         }
     }
 
