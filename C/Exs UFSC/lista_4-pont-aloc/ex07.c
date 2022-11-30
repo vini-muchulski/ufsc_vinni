@@ -15,7 +15,7 @@ int vetor_repeticoes(int *vet,int tamanho);
 int main(){
 
     int const tamanho_a = 10;
-    int vet_a[10]= {2,2,3,3,4,5,6,7,8,2};
+    int vet_a[10]= {7,8,1,0,8,0,7,5,6,7};
 
     int var;
     
@@ -56,7 +56,7 @@ int vetor_repeticoes(int *vet,int tamanho){
             guarda_valores[i] = vet[i];
         }
         else{
-            guarda_valores[i] = 0;
+            guarda_valores[i] = -1;
         }
     }
 
@@ -71,10 +71,10 @@ int vetor_repeticoes(int *vet,int tamanho){
      int vet_aux[conta_repeticoes];
 
     for(i=0;i<tamanho; i++){
-       if( guarda_valores[i] !=0){
+       if( guarda_valores[i] !=-1){
         for (j=i+1;j<tamanho;j++){
             if (guarda_valores[j]== guarda_valores[i]){
-                guarda_valores[j] = 0;
+                guarda_valores[j] = -1;
             }
         } 
        }
@@ -82,7 +82,7 @@ int vetor_repeticoes(int *vet,int tamanho){
     
     printf("\n");
     for(int k=0;k<tamanho; k++){
-        if( guarda_valores[k] !=0){
+        if( guarda_valores[k] !=-1){
             vet_aux[cont] = guarda_valores[k];
             cont++;
         }
