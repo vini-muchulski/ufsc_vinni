@@ -15,6 +15,7 @@ int main(){
 
     int a[15] = {1,2,-1,-2,3,4};
     int *b;
+    int cont = 0;
 
     int qnt_positivos = 0;
 
@@ -34,7 +35,8 @@ int main(){
      for (i=0;i<15;i++){
         if ( a[i]>0)
         {
-            b[i] = a[i];
+            b[cont] = a[i];
+            cont++;
         }
     }
 
