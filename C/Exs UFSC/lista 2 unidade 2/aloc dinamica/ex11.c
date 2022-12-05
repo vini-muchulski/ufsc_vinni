@@ -19,6 +19,8 @@ int main(){
     int i;
     int qnt_pares= 0;
     int positivos = 0;
+    int cont_b = 0;
+    int cont_c = 0;
 
     printf("Digite o tamanho de a: \n");
     scanf("%d", &tam);
@@ -51,11 +53,13 @@ int main(){
     for (i=0; i< tam; i++){
         if (a[i]>0){
             
-            c[i] = a[i];
+            c[cont_c] = a[i];
+            cont_c++;
             
         }
         if (a[i]%2 == 0){
-            b[i] = a[i];
+            b[cont_b] = a[i];
+            cont_b++;
              
         }
 

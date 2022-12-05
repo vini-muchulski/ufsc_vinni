@@ -17,8 +17,6 @@ int qnt_pares = 0;
 int cont =0;
 
 
-
-
 //cria vetor a
 printf("Digite o tamanho do vetor A: \n");
 scanf("%d", &tam_a);
@@ -31,11 +29,6 @@ a = (int*) malloc(tam_a*sizeof(int));
         if (a[i]%2 == 0){
             qnt_pares++;
         }
-    }
-
-    for (i=0; i< tam_a; i++){
-        printf("%d ",a[i]);
-        
     }
 
 
@@ -60,33 +53,29 @@ b = (int*) malloc(tam_b*sizeof(int));
 
 c = (int*) malloc (qnt_pares*sizeof(int));
 
-for(i=0;i<tam_b;i++){
-    if (b[i]%2 == 0){
-        c[i] = b[i];
+
+for(i=0;i<tam_a;i++){
+    if (a[i]%2 == 0){
+        c[cont] = a[i];
         cont++;
     }
 
 }
 
-for(i=0;i<tam_a;i++){
-    if (a[i]%2 == 0){
-        c[i + cont] = a[i];
-        
+for(i=0;i<tam_b;i++){
+    if (b[i]%2 == 0){
+        c[cont] = b[i];
+        cont++;
     }
 
 }
+
+
 
 for(i=0;i<qnt_pares;i++){
     printf("%d ", c[i]);
 
 }
-
-
-
-
-
-
-
 
 
     return 0;
