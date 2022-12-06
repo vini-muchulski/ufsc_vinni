@@ -13,7 +13,7 @@ int main(){
 
     int i;
 
-    int a[15] = {1,2,-1,-2,3,4};
+    int a[15] = {1,2,-1,-2,3,-4};
     int *b;
     int cont = 0;
 

@@ -13,6 +13,8 @@ int **mat;
 int i,j;
 int tamanho_a;
 int m,n;
+int k=0;
+int s=0;
 
 int **Bmat;
 
@@ -40,25 +42,15 @@ for(i=0;i<n;i++){
 // matriz transposta
 Bmat = (int**) malloc(m*sizeof(int*));
 
-for(i=0;i<m;i++){
-    Bmat[i] = (int*)malloc(n*sizeof(int));
-    for(j=0;j<n;j++){
+for(j=0;j<m;j++){
+    Bmat[j] = (int*)malloc(n*sizeof(int));
+    for(i=0;i<n;i++){
         Bmat[j][i] = mat[i][j];
-        
-
- 
-    }
-}
-
-for(i=0;i<m;i++){
-    
-    for(j=0;j<n;j++){
         printf("%d ", Bmat[j][i]);
-        
-
- 
     }
+    printf("\n");
 }
+
 
     return 0;
 }
