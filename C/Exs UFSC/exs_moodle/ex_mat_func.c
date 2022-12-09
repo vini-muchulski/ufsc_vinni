@@ -6,9 +6,9 @@
 
 
 
-int printa_matriz(int mat[2][2]);
+int printa_matriz(int *mat);
 
-int maior_elemento(int mat[2][2]);
+int maior_elemento(int *mat);
 
 int main(){
 
@@ -57,7 +57,7 @@ int main(){
     return 0;
 }
 
-int printa_matriz(int mat[2][2]){
+int printa_matriz(int *mat){
     int i,j;
     for(i=0; i < 2;i++){
         for(j=0; j < 2;j++){
@@ -68,7 +68,7 @@ int printa_matriz(int mat[2][2]){
 
 }
 
-int maior_elemento(int mat[2][2]){
+int maior_elemento(int *mat){
      int i,j;
      int maior_elemento;
 
