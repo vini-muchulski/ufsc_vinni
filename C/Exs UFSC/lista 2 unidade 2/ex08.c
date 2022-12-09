@@ -11,15 +11,46 @@ int algarismos(int n);
 
 
 int main(){
-int x = algarismos(7631);
+int x = rev(7631);
 
 printf("%d", x);
     return 0;
 }
 
 int algarismos(int n){
-    if (n == 0){
+     
+    printf("%d \n",n);
+    if(10>n){
         return n;
-    } 
-    return (n%10)*10 + algarismos(n/10);
+    }
+    
+
+    else{
+
+        return (n%10)*10 +10*algarismos(n/10);
+
+    //return (n%10)*10 + algarismos(n/10);
+
+    /*          1*10 + algr(763)
+                3*10 + algr(76)
+                6*10 + algr(7)
+                7
+                        */
+}
+}
+
+int rev(int num)
+{
+int static sum,r;
+
+if(num)
+{
+r=num%10;
+sum=sum*10+r;
+rev(num/10);
+}
+else
+return 0;
+
+return sum;
 }
