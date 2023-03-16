@@ -110,7 +110,7 @@ case 4:
     
 
 
-    for(i=0;i<=vetor_de_palavras.size();i++){
+    for(i=0;i<vetor_de_palavras.size();i++){
         posicao_substring = vetor_de_palavras[i].find(palavra_aux);
 
 
@@ -120,6 +120,8 @@ case 4:
         }
     }
 
+    break;
+
     /* for(i=0; i<vetor_de_palavras.size()-1;i++){
         if(i == vetor_de_palavras[i].find(palavra_aux,i)){
             cout << "Substring " << "'" << palavra_aux << "'" << "Achada na posicao: " << i << endl ;
@@ -127,7 +129,7 @@ case 4:
     } 
     codigo do fernado */
 
-    break;
+    
 
 
 
@@ -138,6 +140,8 @@ case 5:
     cin >> indice_para_apagar;
 
     vetor_de_palavras.erase(vetor_de_palavras.begin() + indice_para_apagar);
+
+    break;
 
 case 0:
     break;
