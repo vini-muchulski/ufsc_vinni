@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 #include <fstream>
+#include <utility>
 
 using namespace std;
 
@@ -11,7 +12,7 @@ using namespace std;
 bool Read_file(string path, string &conteudo);
 
 
-
+// std::  vector <pair<int,int>> tabela
 
 int main(){
 
@@ -49,6 +50,9 @@ bool Read_file(string path, string &conteudo){
         conteudo +=tmp;
     }
     cout << tmp << endl;
+
+
+    // to do - contar no texto a frequencia de cada caracter - a - b - c ...
 
     filereader.close();
 
