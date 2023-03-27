@@ -36,9 +36,22 @@ cout << file_content << endl;
 
 bool Read_file(string path, string &conteudo){
 
-    conteudo += "oi1";
-    conteudo += "oi2";
-    conteudo += "oi3";
+    ifstream filereader(path);
+
+    if(!filereader.is_open()){
+        return false;
+    }
+
+
+    string tmp;
+
+    while( getline(filereader, tmp)){
+        conteudo +=tmp;
+    }
+    cout << tmp << endl;
+
+    filereader.close();
+
 
     return true;
 
