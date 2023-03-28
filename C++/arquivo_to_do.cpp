@@ -27,6 +27,29 @@ string file_content = "";
 
 vector <string> vetorzao;
 
+int i;
+string aux;
+
+
+
+// inicializa o vetor dos caracteres e atribui valor inicial 0 para a quantidade de caracteres encontrado
+vector <pair<string,int>>  caracteres;
+
+for (i=0;i<256;i++){
+
+    aux = static_cast<char>(i);
+    caracteres.push_back(make_pair(aux,0));
+    
+}
+for (i=0;i<256;i++){
+
+     cout << caracteres[i].first << "  " << caracteres[i].second <<  endl;
+    
+}
+
+
+
+
 
 
 if(Read_file(filename, file_content, vetorzao) == true){
