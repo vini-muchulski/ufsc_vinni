@@ -25,11 +25,13 @@ string filename("texto.txt");
 
 string file_content = "";
 
+//vetor onde cada elemento é uma linha do texto.txt
 vector <string> vetorzao;
 
-int i;
+int i,j;
 string aux;
 
+int cont_aux =0;
 
 
 // inicializa o vetor dos caracteres e atribui valor inicial 0 para a quantidade de caracteres encontrado
@@ -41,9 +43,24 @@ for (i=0;i<256;i++){
     caracteres.push_back(make_pair(aux,0));
     
 }
-for (i=0;i<256;i++){
+/*for (i=0;i<256;i++){
 
      cout << caracteres[i].first << "  " << caracteres[i].second <<  endl;
+    
+}*/
+ // metodo count()
+
+ for (i=0;i<vetorzao.size();i++){
+    
+
+    for (j=0;j<256;j++){
+    cont_aux = vetorzao[i].count(vetorzao[i].begin(), vetorzao[i].end(),caracteres[j].first);
+    
+
+
+    
+}
+
     
 }
 
