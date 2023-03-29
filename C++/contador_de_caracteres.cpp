@@ -102,3 +102,10 @@ bool Read_file(string path, string &conteudo){
     return true;
 
 }
+
+
+//eliminar as ocorrencias de caracteres zerados
+// ordenar o vetor em funcao do segundo elemento em ordem decrescente;
+// como usar o sort, stable_sort;
+
+//encriptador;
