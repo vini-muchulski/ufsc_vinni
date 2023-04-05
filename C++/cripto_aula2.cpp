@@ -70,7 +70,7 @@ string encriptar( string texto, vector < pair< char, char > > tabela_de_conversa
      for(size_t i=0; i<texto.size(); i++)
     {
         char ch = texto.at(i);
-        texto.at(i) = chCount.at(ch).second++;
+        texto.at(i) = tabela_de_conversao.at(ch).second++;
         
     }
 }
