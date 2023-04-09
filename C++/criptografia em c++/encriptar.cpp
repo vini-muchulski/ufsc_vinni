@@ -9,6 +9,8 @@ vector< pair <char , char>  > cria_tabela( int deslocamento);
 
 string encriptar( string texto, vector < pair< char, char > > tabela_de_conversao);
 
+string decriptar(string texto, vector < pair< char, char > > tabela_de_conversao);
+
 void print_vector(vector < pair< char, char > > vetor_funcao);
 
 //bool Read_file(string path, string &conteudo);
@@ -19,6 +21,7 @@ void print_vector(vector < pair< char, char > > vetor_funcao);
 int main(){
 
    string file_content = "";
+   string file_content_decifrado = "";
     string text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
 
     //string filename("lorem.txt");  
@@ -42,6 +45,10 @@ int main(){
     file_content = encriptar(text, tabela_de_conversao);
 
     cout << "Texto encriptado: " << file_content << endl;
+
+    file_content_decifrado = decriptar(text,tabela_de_conversao);
+
+    cout << "Texto DEencriptado: " << file_content_decifrado << endl;
 
     return 0; 
 }
@@ -88,6 +95,28 @@ string encriptar( string texto, vector < pair< char, char > > tabela_de_conversa
     }
 
     return texto;
+}
+
+
+string decriptar(string texto, vector < pair< char, char > > tabela_de_conversao){
+    string texto_decifrado ="";
+    size_t i,j;
+    char caracter;
+
+    for(i=0;i<texto.size();i++){
+        caracter = texto[i];
+        
+        for(j=0;j<tabela_de_conversao.size();j++){
+
+            if (caracter == tabela_de_conversao[j].second ){
+                texto_decifrado +=caracter;
+            }
+
+        }    
+        }
+
+        return texto_decifrado;
+
 }
 
 
