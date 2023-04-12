@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681333258 source:c:\users\aluno\desktop\code\ex1\square.cpp
+	"square.hpp"
+
+1681333361 c:\users\aluno\desktop\code\ex1\square.hpp
+	<iostream>
+
