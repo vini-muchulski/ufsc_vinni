@@ -49,9 +49,11 @@ int main(){
 
     vector< pair<int,int> > teste;
     size_t i;
-    int x,y;
+    int x,y,qnt;
      
-     for(i=0;i<4;i++){
+     cout << "digite a quantidade de pontos " << endl;
+     cin >> qnt;
+     for(i=0;i<qnt;i++){
         cout << i << " digite os valores x e y: " << endl;
         cin >> x >> y;
         teste.push_back(make_pair(x,y));
