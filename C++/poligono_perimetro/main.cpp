@@ -26,16 +26,22 @@ class Polygon{
         }
     }
 
-    float find_area(){
+
+
+
+     float find_area(){
         float a =0;
         float ox = lados[0].first;
         float oy = lados[0].second;
 
         for(size_t i=1; i< lados.size() ;i++){
-            a+= (lados[i].first*ox - lados[i].second*oy);
+            a+= (lados[i].first*oy - lados[i].second*ox);
+            
             ox = lados[i].first;
             oy = lados[i].second;
         }
+
+        a = a/2;
 
         if ( a<0){
             a = a* (-1);
@@ -44,56 +50,42 @@ class Polygon{
         else{
         return a;
         }
-    }
+    } 
 
-
-    /* float find_perimetro(){
+    float  find_perimetro(){
         float perimetro = 0;
-        for (size_t i = 1; i < lados.size();i++){
-            if( i == 1){
-                perimetro += sqrt((lados[i].first - lados[0].first)*(lados[i].first - lados[0].first) + (lados[i].second - lados[0].second)* (lados[i].second - lados[0].second));
+        float dx = 0;
+        float dy=0;
+
+        size_t i;
+        for (i=1; i < lados.size(); i++){
+            dx = lados[i].first - lados[i-1].first;
+            dy = lados[i].second - lados[i-1].second;
+
+            perimetro += sqrt(dx*dx + dy*dy);
             }
-            if( i != 1 &&   i!=(lados.size()-1)){
-                perimetro += sqrt((lados[i].first - lados[i-1].first)*(lados[i].first - lados[i-1].first) + (lados[i].second - lados[i-1].second)* (lados[i].second - lados[i-1].second));
-            }
-            if( i == (lados.size()-1)){
-                perimetro += sqrt((lados[0].first - lados[i].first)*(lados[0].first - lados[i].first) + (lados[0].second - lados[i].second)* (lados[0].second - lados[i].second));
-            }
+
+            // ultimo ponto
+
+            dx = lados[0].first - lados[lados.size()-1].first;
+            dy = lados[0].second - lados[lados.size()-1].second;
+
+            perimetro += sqrt(dx*dx + dy*dy);
+
+            return perimetro;
+
 
         }
-
-        return perimetro;
-    } */
-
-    float find_perimetro(){
-        float perimetro = 0;
-        float x_dist = 0;
-        float y_dist = 0;
-
-        for (size_t i = 1; i < lados.size();i++){
-            x_dist = lados[i].first - lados[i-1].first;
-            y_dist = lados[i].second - lados[i-1].second;
-
-            perimetro += sqrt(x_dist*x_dist + y_dist*y_dist);
-            }
-
-        // ultimo ponto
-            x_dist = lados[0].first - lados[lados.size()-1].first;
-            y_dist = lados[0].second - lados[lados.size()-1].second;
-
-            perimetro += sqrt(x_dist*x_dist + y_dist*y_dist);
-
-    return perimetro;
-        }
-
-       
     
 };
+
+
+
 int main(){
 
     vector< pair<int,int> > teste;
-
-    int x,y,qnt,i;
+    int i;
+    int x,y,qnt;
      
      cout << "digite a quantidade de pontos " << endl;
      cin >> qnt;
