@@ -63,30 +63,35 @@ int main() {
             break;
 
         case 4:
-        // Desenha o losango usando os asteriscos
-            for (i = 1; i <= linhas; i++) {
-                for (j = 1; j <= linhas - i; j++) {
-                    printf(" ");
-                }
-                for (j = 1; j <= i; j++) {
-                    printf("* ");
-                }
-                printf("\n");
+    // Desenha o losango usando os asteriscos
+    for (i = 1; i <= linhas/2 + 1; i++) {
+        for (j = 1; j <= linhas - i; j++) {
+            printf(" ");
+        }
+        for (j = 1; j <= i*2-1; j++) {
+            if (j == 1 || j == i*2-1) {
+                printf("*");
+            } else {
+                printf(" ");
             }
-            for (i = linhas-1; i >= 1; i--) {
-                for (j = 1; j <= linhas - i; j++) {
-                    printf(" ");
-                }
-                for (j = 1; j <= i; j++) {
-                    printf("* ");
-                }
-                printf("\n");
+        }
+        printf("\n");
+    }
+    for (i = linhas/2; i >= 1; i--) {
+        for (j = 1; j <= linhas - i; j++) {
+            printf(" ");
+        }
+        for (j = 1; j <= i*2-1; j++) {
+            if (j == 1 || j == i*2-1) {
+                printf("*");
+            } else {
+                printf(" ");
             }
-            break;
+        }
+        printf("\n");
+    }
+    break;
 
-        default:
-            printf("Forma geométrica inválida.\n");
-            break;
     }
 
     return 0;
