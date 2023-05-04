@@ -16,7 +16,7 @@ int main() {
     scanf(" %d", &opcao);
 
     switch (opcao) {
-        // Desenha o quadrado emitindo asteriscos durante cada iteração da primeira linha, apos isso ele trabalha com as excecoes para 
+        // Desenha a figura emitindo asteriscos durante cada iteração da primeira linha, apos isso ele trabalha com as excecoes para 
         // Ver se deve emitir pontos no contorno da figura
         case 1:
             for (i = 1; i <= linhas; i++) {
