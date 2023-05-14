@@ -8,9 +8,6 @@
 #include <iomanip>
 
 
-
-
-
 using namespace std;
 
 
@@ -93,12 +90,37 @@ class ContaCorrente{
  void operator+=(float valor){
     depositar(valor);
  }
+
+
+
+// sacar
+ void sacar(float valor){
+    m_saldo-= valor;
+
+ }
+// trasnferir
+void transferir(ContaCorrente *cliente_2, float valor){
+    cliente_2->depositar(valor);
+    m_saldo-=valor;
+
+    cout << "Transferido" << endl;
+
+}
+ // transferir tudo
+void transferir_tudo(ContaCorrente *cliente_2){
+    cliente_2->depositar( m_saldo);
+    m_saldo=0;
+
+}
+
+
+
     ~ContaCorrente(){}
 
 
-    // sacar
-    // trasnferir 
-    // transferir tudo
+    
+     
+   
 };
 
 class Conta{
@@ -121,17 +143,29 @@ cout << c1.Get_info() << endl;
 cout << c2.Get_info() << endl;
 cout << c3.Get_info() << endl;
 
+cout << "\n ---------------- \n" << endl;
+
+
 ContaCorrente conta1(&c1,5000);
 
 cout <<  conta1.Get_info_cc() << endl;
+
+
+
+ContaCorrente conta2(&c2,10000);
+
+cout <<  conta2.Get_info_cc() << endl;
 
 /* Cliente *cliente6 = new Cliente("Apeiron","Earth", "AstroNaut", 5000);
 ContaCorrente conta2(cliente6,10000);
 
 delete cliente6; */
 
+conta2.transferir(&conta1,1000);
+cout << "\n ---------------- \n" << endl;
 
-
+cout <<  conta1.Get_info_cc() << endl;
+cout <<  conta2.Get_info_cc() << endl;
 
     return 0;
 }
