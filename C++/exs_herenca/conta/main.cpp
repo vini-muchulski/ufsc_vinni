@@ -78,7 +78,7 @@ class ContaCorrente{
     //return palavra;
     stringstream palavra;
 
-    palavra << "Cliente: " << m_cliente->get_nome() << " Endereco: " << m_cliente->get_endereco() << " Profissao: " << m_cliente->get_profissao() <<  " Salario: " << fixed << setprecision(2) << m_cliente->get_salario() <<   " Limite: " << fixed << setprecision(2) << m_saldo << " \n";
+    palavra << "Cliente: " << m_cliente->get_nome() << " Endereco: " << m_cliente->get_endereco() << " Profissao: " << m_cliente->get_profissao() <<  " Salario: " << fixed << setprecision(2) << m_cliente->get_salario() <<   " Saldo: " << fixed << setprecision(2) << m_saldo << " \n";
 
     return palavra.str();
    }
@@ -113,7 +113,7 @@ void transferir_tudo(ContaCorrente *cliente_2){
 
 }
 
-
+// lista de contas em um vector- conta corrente 
 
     ~ContaCorrente(){}
 
@@ -132,6 +132,33 @@ public:
 // metodos
 
 };
+
+class ContaEspecial: public ContaCorrente{
+protected:
+float m_limite;
+
+public:
+
+ContaEspecial(Cliente *cliente , float saldo=0,float limite=1000): ContaCorrente(cliente,saldo){
+ m_limite = limite;
+}
+
+
+
+    
+void sacar(float valor){
+
+if(m_saldo + m_limite - valor >=0){
+     m_saldo-= valor;
+} 
+}
+
+};
+
+
+
+
+
 int main(){
 
 Cliente c1("Vini","Mars","Eng",2710);
@@ -144,6 +171,11 @@ cout << c2.Get_info() << endl;
 cout << c3.Get_info() << endl;
 
 cout << "\n ---------------- \n" << endl;
+
+
+
+
+
 
 
 ContaCorrente conta1(&c1,5000);
@@ -164,8 +196,18 @@ delete cliente6; */
 conta2.transferir(&conta1,1000);
 cout << "\n ---------------- \n" << endl;
 
+
+
+
+
+
+
 cout <<  conta1.Get_info_cc() << endl;
 cout <<  conta2.Get_info_cc() << endl;
+
+Cliente c4("Joao" , "Avenida Paulista");
+
+ContaEspecial ce1(&c4,1000,10000);
 
     return 0;
 }
