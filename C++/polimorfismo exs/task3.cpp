@@ -5,7 +5,7 @@ using namespace std;
 
 class Scheduler {
 protected:
-    vector<size_t>& vetor_ids;  // Alteração: Usar referência para o vetor de tarefas
+    vector<size_t>& vetor_ids; 
 
 public:
     Scheduler(vector<size_t>& vetor_p) : vetor_ids(vetor_p) {}
@@ -47,22 +47,11 @@ public:
         }
     }
 
-    void processar(size_t id) {
-        size_t i;
-        int posicao = -1;
+    //primeira tarefa a chegar é executada antes, as demais vao fazendo fila
+    void processar() {
+        vetor_ids.erase(vetor_ids.begin());
 
-        for (i = 0; i < vetor_ids.size(); i++) {
-            if (vetor_ids[i] == id) {
-                posicao = i;
-            }
-        }
-
-        if (posicao != -1) {
-            cout << "Executada Tarefa " << id << endl;
-            vetor_ids.erase(vetor_ids.begin() + posicao);
-        } else {
-            cout << "Elemento não encontrado" << endl;
-        }
+       
     }
 };
 
@@ -77,22 +66,9 @@ public:
         }
     }
 
-    void processar(size_t id) {
-        size_t i;
-        int posicao = -1;
-
-        for (i = 0; i < vetor_ids.size(); i++) {
-            if (vetor_ids[i] == id) {
-                posicao = i;
-            }
-        }
-
-        if (posicao != -1) {
-            cout << "Executada Tarefa " << id << endl;
-            vetor_ids.erase(vetor_ids.begin() + posicao);
-        } else {
-            cout << "Elemento não encontrado" << endl;
-        }
+    //ULTIMA tarefa a chegar é executada antes
+    void processar() {
+        vetor_ids.pop_back();
     }
 };
 
@@ -106,7 +82,7 @@ int main() {
     Politica_2 pol2(vetor_ids);
 
     while (opcao != 5) {
-        cout << "\nTAREFAS \n1-Schedule a task to process \n2-Pick up a task to process using policy 1 \n3-Pick up a task to process using policy 2 \n4-Print Tasks \n5-Exit" << endl;
+        cout << "\nTAREFAS \n1-Schedule a task to process \n2-Pick up a task to process using policy 1 \n3-Pick up a task to process using policy 2 \n4-Print Tasks \n5-Exit\n" << endl;
         cin >> opcao;
 
         switch (opcao) {
@@ -117,15 +93,13 @@ int main() {
             break;
 
         case 2:
-            cout << "Digite um ID para processar - política 1: ";
-            cin >> id;
-            pol1.processar(id);
+            
+            pol1.processar();
             break;
 
         case 3:
-            cout << "Digite um ID para processar - política 2: ";
-            cin >> id;
-            pol2.processar(id);
+            
+            pol2.processar();
             break;
 
         case 4:
