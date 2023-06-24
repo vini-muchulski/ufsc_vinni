@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/enemyShip.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/enemyUFO.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/laserGreen.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/laserGreenShot.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/laserRed.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/laserRedShot.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/life.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/meteorBig.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/meteorSmall.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/player.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/playerDamaged.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/playerLeft.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/playerRight.png</file>
+        <file>C:/Users/Cliente/Desktop/spaceArt/png/shield.png</file>
+        <file>enemyShip.png</file>
+        <file>enemyUFO.png</file>
+        <file>laserGreen.png</file>
+        <file>laserGreenShot.png</file>
+        <file>laserRed.png</file>
+        <file>laserRedShot.png</file>
+        <file>life.png</file>
+        <file>meteorBig.png</file>
+        <file>meteorSmall.png</file>
+        <file>player.png</file>
+        <file>playerDamaged.png</file>
+        <file>playerLeft.png</file>
+        <file>playerRight.png</file>
+        <file>shield.png</file>
+        <file>Background/backgroundColor.png</file>
+        <file>Background/nebula.png</file>
+        <file>Background/speedLine.png</file>
+        <file>Background/starBackground.png</file>
+        <file>Background/starBig.png</file>
+        <file>Background/starSmall.png</file>
+        <file>nebula.png</file>
+        <file>starSmall.png</file>
+        <file>starBig.png</file>
+        <file>speedLine.png</file>
+        <file>backgroundColor.png</file>
+        <file>starBackground.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/new/prefix2"/>
+</RCC>

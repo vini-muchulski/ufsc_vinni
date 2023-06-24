@@ -6,18 +6,17 @@
 #include "player.h"
 #include "bullet.h"
 #include "enemy.h"
-Player::Player(QGraphicsItem *parent): QGraphicsRectItem(parent)
+Player::Player(QGraphicsItem *parent): QGraphicsPixmapItem(parent)
 {
+    setPixmap(QPixmap(":/images/player.png"));
 }
-
-
 void Player::keyPressEvent(QKeyEvent *event)
 {
     // mensagem informando que ocorreu uso do teclado
     //qDebug()<<"Key press detected";
     if(event->key() == Qt::Key_Left)
     {
-        // limite para não sair da tela
+    // limite para não sair da tela
         if(pos().x() > 0)
             setPos(x()-10,y());
     }
@@ -33,7 +32,6 @@ void Player::keyPressEvent(QKeyEvent *event)
     }
     else if(event->key() == Qt::Key_Down)
     {
-
         setPos(x(),y()+10);
     }
     // criar tiro (bullet)

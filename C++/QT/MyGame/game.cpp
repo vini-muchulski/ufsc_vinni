@@ -1,5 +1,8 @@
 #include <QGraphicsTextItem>
 #include <QTimer>
+#include <QImage>
+#include <QBrush>
+
 #include "game.h"
 #include "enemy.h"
 Game::Game(QWidget *parent)
@@ -8,6 +11,8 @@ Game::Game(QWidget *parent)
     scene = new QGraphicsScene();
     // fixar o tamanho em 800x600, que é infinito por definição
     scene->setSceneRect(0,0,800,600);
+    scene->setBackgroundBrush(QBrush(QImage(":/images/starBackground.png")));
+
     // visualizar o objeto scene (cenario)
     setScene(scene);
     //desabilitar as barras de rolagem
@@ -18,7 +23,7 @@ Game::Game(QWidget *parent)
     // criar o jogador
     player = new Player();
     // definir o tamanho do jogador 100 x 100
-    player->setRect(0,0,100,100);
+    //player->setRect(0,0,100,100);
     // definir a posição padrão do jogador para ser em baixo da tela
     // por definição a visualização é centralizada para pegar todos os objetos
     player->setPos(400,500);
