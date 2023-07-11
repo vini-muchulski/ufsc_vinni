@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/rec">
-        <file>mgs-v-wallpaper-Image-by-xelander_.jpg</file>
-        <file>o70YYg6.png</file>
-    </qresource>
-    <qresource prefix="/new/prefix1"/>
-</RCC>
