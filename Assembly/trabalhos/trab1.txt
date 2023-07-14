@@ -1,0 +1,33 @@
+.data 2050h ; define o endereço de memória 2050h para armazenar os dados
+DB 24, 16 ; armazena os valores 24 e 16 nos endereços de memória 2050h e 2051h
+
+.org 0000h ; define o endereço de início do programa
+LXI H, 2050H ; carrega o registrador HL com o endereço de memória 2050h
+MOV C, M ; move o conteúdo do endereço de memória apontado por HL para o registrador C
+INX H ; incrementa o registrador HL
+MOV B, M ; move o conteúdo do endereço de memória apontado por HL para o registrador B
+
+calc_mdc: ; loop para o cálculo do MDC
+    MOV D, B ; move o conteúdo do registrador B para o registrador D
+    MOV A, C ; move o conteúdo do registrador C para o acumulador A
+    SUB B ; subtrai o conteúdo do registrador B do acumulador A
+    JC menor_zero ; se houver um carry (resultado negativo), desvia para o loop menor_zero
+    MOV B, A ; move o conteúdo do acumulador A para o registrador B
+    JZ finaliza ; se o resultado for zero, desvia para o loop finaliza
+    JNZ continua ; se o resultado não for zero, desvia para o loop continua
+
+menor_zero: ; loop para tratar resultados negativos
+    MOV D, C ; move o conteúdo do registrador C para o registrador D
+    MOV C, B ; move o conteúdo do registrador B para o registrador C
+    MOV B, D ; move o conteúdo do registrador D para o registrador B
+    JMP calc_mdc ; desvia incondicionalmente para o cálculo do MDC
+
+
+continua: ; loop para continuar a rotina de cálculo do MDC
+    MOV C, D ; move o conteúdo do registrador D para o registrador C
+    JMP calc_mdc ; desvia incondicionalmente para o cálculo do MDC
+
+finaliza: ; loop para finalizar a rotina de cálculo do MDC
+    LXI H, 2052h ; carrega o registrador HL com o endereço de memória 2052h
+    MOV M, D ; move o conteúdo do registrador D para o endereço de memória apontado por HL
+    HLT ; termina a execução do programa
