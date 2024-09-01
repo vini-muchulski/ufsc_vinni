@@ -1,15 +1,30 @@
 # https://www.youtube.com/playlist?list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC
+#https://how2electronics.com/esp32-cam-based-object-detection-identification-with-opencv/
 
 import cv2
-import numpy as np
+import math
 
 # Carregar o classificador de face pré-treinado
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 
+#"""
 ip = "http://192.168.0.102:8080/video"
 
 WebCamera = cv2.VideoCapture(ip)
+#"""
+
+
+"""
+# URL completa para acessar o stream de vídeo do ESP32-CAM
+ip = "http://192.168.0.109"
+
+stream_url = f"{ip}:81/stream"
+#http://192.168.0.109:81/stream
+
+# Inicializa a captura de vídeo com o URL do stream
+WebCamera = cv2.VideoCapture(stream_url)
+"""
 
 while True:
     conectado, img = WebCamera.read()
