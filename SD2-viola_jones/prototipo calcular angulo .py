@@ -7,7 +7,7 @@ import time
 # Constantes
 SERIAL_PORT = 'COM3'
 BAUD_RATE = 9600
-CAMERA_IP = "http://192.168.0.102:8080/video"
+CAMERA_IP = 0 # "http://192.168.0.102:8080/video"
 FACE_CASCADE_PATH = cv2.data.haarcascades + 'haarcascade_frontalface_default.xml'
 VARIACAO_MINIMA = 10
 DELAY_RECALCULO = 2

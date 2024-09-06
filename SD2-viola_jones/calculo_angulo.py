@@ -11,7 +11,11 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 
 # Inicializa a captura de vídeo (ajuste o IP/URL conforme necessário)
 ip = "http://192.168.0.102:8080/video"
-WebCamera = cv2.VideoCapture(ip)
+WebCamera = cv2.VideoCapture(0)
+
+#REAJUSTE DE RESOLUCAO
+WebCamera.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+WebCamera.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
 
 while True:
     conectado, img = WebCamera.read()
@@ -34,8 +38,8 @@ while True:
         dx = center_x - 320
         dy = center_y - 240
         angulo_rad = math.atan2(dy, dx)
-        angulo_graus = math.degrees(angulo_rad)
-        angulo_graus = abs(angulo_graus)
+        angulo_graus = math.degrees(angulo_rad) 
+        angulo_graus = abs(angulo_graus) 
         
         
         # Ajusta o ângulo para o intervalo do servo (0-180)

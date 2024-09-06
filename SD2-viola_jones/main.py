@@ -9,9 +9,15 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 
 
 #"""
-ip = "http://192.168.0.102:8080/video"
+#ip = "http://192.168.0.102:8080/video"
 
-WebCamera = cv2.VideoCapture(ip)
+#WebCamera = cv2.VideoCapture(ip)
+WebCamera = cv2.VideoCapture(0)
+
+#REAJUSTE DE RESOLUCAO
+WebCamera.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
+WebCamera.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
+
 #"""
 
 
