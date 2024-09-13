@@ -15,6 +15,6 @@ def enviar_angulo(angulo):
     
     ser.close()
 
-angulo = 180  # Ângulo que você deseja mover o servo
+angulo = 45  # Ângulo que você deseja mover o servo
 enviar_angulo(angulo)
 
