@@ -1,2 +1,4 @@
 
 SD2-viola_jones/servo.ino
+SD2-viola_jones/testes/dlib_face_recognition_resnet_model_v1.dat
+SD2-viola_jones/testes/shape_predictor_68_face_landmarks.dat
