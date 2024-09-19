@@ -1,0 +1,7 @@
+https://python.plainenglish.io/face-mesh-detection-with-python-and-opencv-complete-project-359d81d6a712
+
+https://www.youtube.com/playlist?list=PLP_dh3S9H39kM3aQ-ROyVJwKilzlS0hkG
+
+https://github.com/ageitgey/face_recognition
+
+https://medium.com/pythons-gurus/what-is-the-best-face-detector-ab650d8c1225
