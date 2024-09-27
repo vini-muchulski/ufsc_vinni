@@ -3,7 +3,7 @@ import cv2
 classificador = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 ip = "http://192.168.0.102:8080/video"
 
-WebCamera = cv2.VideoCapture(ip)
+WebCamera = cv2.VideoCapture(0)
 
 amostra = 1
 numeroAmostras = 25

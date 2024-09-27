@@ -54,7 +54,7 @@ while cap.isOpened():
            
 
     # Exibir o vídeo com as detecções
-    cv.imshow('Detecção Facial com YuNet', frame)
+    cv.imshow('Deteccao Facial com YuNet', frame)
 
     if cv.waitKey(1) & 0xFF == ord('q'):
         break
