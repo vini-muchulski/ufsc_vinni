@@ -1,0 +1,1529 @@
+municipio,dataNotificacao,evolucaoCaso,classificacaoFinal,sexo,idade,sintomas,condicoes,profissionalSaude
+Araranguá,2022-02-03,Cura,Confirmado Laboratorial,Feminino,51.0,"Tosse, Outros",,Não
+Araranguá,2022-12-02,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Outros",,Não
+Araranguá,2021-04-28,Cura,Descartado,Masculino,17.0,"Tosse, Coriza, Outros, Dor de Cabeça",,Não
+Araranguá,2023-12-28,Cura,Confirmado Laboratorial,Masculino,36.0,"Distúrbios Olfativos, Tosse, Dor de Garganta",,Não
+Araranguá,2023-12-17,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Febre, Dispneia",,Não
+Araranguá,2023-12-19,Cura,Confirmado Laboratorial,Feminino,51.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-28,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2023-12-15,Cura,Confirmado Laboratorial,Feminino,36.0,"Dispneia, Dor de Garganta, Febre",,Não
+Araranguá,2023-12-23,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-19,Cura,Confirmado Laboratorial,Feminino,28.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-14,Cura,Confirmado Laboratorial,Masculino,53.0,Dor de Garganta,,Não
+Araranguá,2023-12-28,Cura,Confirmado Laboratorial,Feminino,17.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-25,Cura,Confirmado Laboratorial,Masculino,32.0,"Coriza, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-17,Cura,Confirmado Laboratorial,Masculino,24.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-19,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-22,Cura,Confirmado Laboratorial,Masculino,45.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2023-12-27,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-23,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-18,Cura,Confirmado Laboratorial,Masculino,14.0,"Dor de Garganta, Febre",,Não
+Araranguá,2023-12-28,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-17,Cura,Confirmado Laboratorial,Feminino,48.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-29,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Garganta",,Não
+Araranguá,2023-12-23,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dispneia",,Não
+Araranguá,2023-12-22,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-15,Cura,Confirmado Laboratorial,Feminino,40.0,"Coriza, Distúrbios Gustativos, Dor de Garganta",,Não
+Araranguá,2023-12-20,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-28,Cura,Confirmado Laboratorial,Feminino,39.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2023-12-29,Cura,Confirmado Laboratorial,Feminino,28.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-25,Cura,Confirmado Laboratorial,Feminino,19.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-20,Cura,Confirmado Laboratorial,Masculino,21.0,"Distúrbios Olfativos, Tosse, Dor de Garganta",,Não
+Araranguá,2023-12-25,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-22,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2023-12-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-19,Cura,Confirmado Laboratorial,Feminino,33.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-15,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-17,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-29,Cura,Confirmado Laboratorial,Feminino,18.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-31,Cura,Confirmado Laboratorial,Masculino,43.0,"Distúrbios Olfativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2023-12-17,Cura,Confirmado Laboratorial,Masculino,49.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2023-12-28,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-18,Cura,Confirmado Laboratorial,Feminino,36.0,"Dor de Cabeça, Outros",,Não
+Araranguá,2023-12-19,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-21,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-22,Cura,Confirmado Laboratorial,Feminino,15.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-05-14,,Descartado,Feminino,15.0,"Tosse, Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Tosse",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,50.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-09-25,,,Masculino,,Assintomático,,Não
+Araranguá,2024-02-28,,,Feminino,26.0,"Dor de Cabeça, Dispneia, Febre",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Outros",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-05,,,Masculino,,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",,Não
+Araranguá,2024-05-31,,Descartado,Feminino,51.0,Dor de Cabeça,,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,42.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,20.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-04-24,,,Feminino,1.0,"Tosse, Febre",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-08-14,,Descartado,Feminino,26.0,Assintomático,,Não
+Araranguá,2024-09-11,,,Masculino,29.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-04,,Descartado,Feminino,34.0,"Dor de Garganta, Outros",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Feminino,21.0,"Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Masculino,36.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-06-26,,,Masculino,43.0,"Tosse, Outros",Diabetes,Não
+Araranguá,2024-05-26,Cura,Confirmado Laboratorial,Masculino,19.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Masculino,26.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-24,Cura,Confirmado Laboratorial,Masculino,33.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Masculino,14.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-27,,,Masculino,1.0,"Coriza, Tosse, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-01-02,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-04-23,,,Masculino,53.0,"Tosse, Outros",,Não
+Araranguá,2024-03-28,Cura,Confirmado Laboratorial,Masculino,42.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-01-11,Cura,Confirmado Laboratorial,Feminino,29.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,49.0,Outros,,Não
+Araranguá,2024-05-27,,,Masculino,18.0,Dor de Garganta,,Não
+Araranguá,2024-05-29,,,Masculino,34.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-08-13,,,Feminino,5.0,Assintomático,,Não
+Araranguá,2024-03-01,,,Feminino,42.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-03-01,,,Masculino,17.0,"Coriza, Dor de Cabeça, Outros",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,43.0,"Coriza, Dor de Cabeça, Distúrbios Gustativos",,Não
+Araranguá,2024-09-07,,,Masculino,1.0,"Tosse, Outros",,Não
+Araranguá,2024-02-05,,,Feminino,12.0,Dispneia,Outros,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-04-16,,,Masculino,5.0,Febre,Outros,Não
+Araranguá,2024-04-02,,Descartado,Feminino,,"Coriza, Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-03-26,,,Masculino,39.0,Assintomático,"Outros, Diabetes, Doenças renais crônicas em estágio avançado (graus 3, 4 ou 5)",Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,29.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-13,,,Masculino,26.0,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cancelado,,Masculino,,"Distúrbios Gustativos, Febre, Dispneia",,Não
+Araranguá,2024-04-05,Cura,Confirmado Laboratorial,Masculino,21.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-06-09,,,Masculino,5.0,"Febre, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,40.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Masculino,13.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-02,,Descartado,Masculino,20.0,"Coriza, Febre, Outros",,Não
+Araranguá,2024-02-21,,Descartado,Feminino,,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,28.0,"Distúrbios Gustativos, Febre, Dispneia",,Não
+Araranguá,2024-03-24,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-08-24,,,Feminino,0.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-22,,Descartado,Feminino,4.0,Outros,,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,11.0,"Tosse, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-02-26,,,Feminino,,"Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-04-12,,,Masculino,2.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,54.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-01-19,Cura,Confirmado Laboratorial,Feminino,49.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Masculino,21.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-02-29,,,Feminino,28.0,"Dor de Cabeça, Outros",,Sim
+Araranguá,2024-01-05,Cura,Confirmado Laboratorial,Feminino,,"Dor de Garganta, Outros",,Não
+Araranguá,2024-05-02,,Descartado,Feminino,16.0,"Coriza, Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Feminino,27.0,"Distúrbios Gustativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-08-14,Cancelado,,Feminino,35.0,"Febre, Dor de Cabeça",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-22,,,Masculino,2.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-09-08,,,Masculino,1.0,Outros,,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Masculino,52.0,"Dor de Cabeça, Dor de Garganta, Febre",,Não
+Araranguá,2024-02-26,,,Feminino,23.0,"Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-08-20,,,Masculino,,Assintomático,,Não
+Araranguá,2024-02-16,,,Feminino,42.0,"Coriza, Dor de Cabeça, Tosse, Outros, Dor de Garganta","Doenças cardíacas crônicas, Diabetes, Obesidade",Sim
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,34.0,"Febre, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-05,,,Feminino,52.0,"Tosse, Febre, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,40.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-03-26,,,Masculino,1.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-05,Cura,Confirmado Laboratorial,Masculino,40.0,"Coriza, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-08,,Descartado,Feminino,41.0,"Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-08-05,,,Feminino,2.0,"Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Masculino,25.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-15,,,Feminino,,"Tosse, Outros, Distúrbios Gustativos",,Não
+Araranguá,2024-03-16,Cura,Confirmado Laboratorial,Feminino,50.0,"Dor de Cabeça, Dor de Garganta, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,26.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-08-20,,,Masculino,4.0,"Tosse, Febre",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,27.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,20.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,50.0,"Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,20.0,Coriza,,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,48.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,35.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,20.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-06-05,,Descartado,Masculino,,"Febre, Tosse",,Não
+Araranguá,2024-01-02,,Descartado,Feminino,32.0,"Coriza, Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-02-11,Cura,Confirmado Laboratorial,Feminino,26.0,"Coriza, Febre, Dor de Garganta",,Não
+Araranguá,2024-09-09,,Descartado,Feminino,27.0,Assintomático,,Não
+Araranguá,2024-02-09,Cura,Confirmado Laboratorial,Feminino,24.0,"Coriza, Febre, Outros",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-19,,,Masculino,9.0,Febre,,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,29.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-28,,Descartado,Feminino,38.0,"Dor de Cabeça, Dor de Garganta, Coriza",,Não
+Araranguá,2024-03-13,,,Masculino,14.0,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",,Não
+Araranguá,2024-08-20,,,Masculino,10.0,"Tosse, Febre",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,30.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,32.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-03-12,,,Feminino,26.0,"Dor de Cabeça, Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Feminino,43.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-24,,,Feminino,13.0,"Coriza, Tosse, Febre, Outros",,Não
+Araranguá,2024-04-04,,Descartado,Masculino,8.0,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Masculino,47.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-03-21,,,Masculino,,"Distúrbios Olfativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-04-11,Cura,Confirmado Laboratorial,Masculino,30.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-27,,Descartado,Masculino,,"Coriza, Tosse",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Feminino,39.0,"Coriza, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Masculino,25.0,"Dor de Cabeça, Tosse, Febre, Outros, Coriza",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,19.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-05-01,Cura,Confirmado Laboratorial,Feminino,43.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-06-12,,,Feminino,0.0,"Coriza, Tosse, Febre, Dispneia",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,34.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-28,,,Feminino,,"Tosse, Dor de Cabeça",,Não
+Araranguá,2024-02-28,,,Masculino,,"Tosse, Dor de Cabeça",,Não
+Araranguá,2024-07-19,,Descartado,Feminino,50.0,"Dor de Cabeça, Febre, Outros, Distúrbios Olfativos",,Não
+Araranguá,2024-03-11,,,Masculino,18.0,"Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-06-19,,,Masculino,7.0,"Tosse, Febre",,Não
+Araranguá,2024-06-23,,,Masculino,9.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-05-17,,Descartado,Masculino,42.0,"Coriza, Dor de Cabeça, Outros",,Não
+Araranguá,2024-04-30,,,Feminino,7.0,"Febre, Tosse",,Não
+Araranguá,2024-05-23,,Descartado,Masculino,2.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-04-25,,Descartado,Masculino,34.0,"Dor de Cabeça, Tosse, Febre, Coriza",,Não
+Araranguá,2024-04-23,,Descartado,Masculino,52.0,"Dor de Cabeça, Dor de Garganta, Outros, Febre",,Não
+Araranguá,2024-08-30,,,Masculino,19.0,"Dor de Garganta, Tosse",,Não
+Araranguá,2024-06-22,,,Feminino,15.0,Assintomático,,Não
+Araranguá,2024-09-19,,,Feminino,45.0,Assintomático,,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Masculino,25.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-08,,,Feminino,49.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,40.0,"Distúrbios Olfativos, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-07-03,,,Masculino,0.0,"Coriza, Tosse",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-01-02,,Descartado,Masculino,39.0,Assintomático,,Não
+Araranguá,2024-01-06,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,34.0,Distúrbios Olfativos,,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,36.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Feminino,53.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-17,,,Feminino,2.0,"Coriza, Tosse",,Não
+Araranguá,2024-04-24,,,Feminino,23.0,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,25.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-29,,,Feminino,44.0,"Coriza, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-03-07,,Descartado,Feminino,22.0,"Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-05-31,,,Masculino,,Assintomático,,Não
+Araranguá,2024-09-26,,,Feminino,23.0,Assintomático,,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,26.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-01-03,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Outros",,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Masculino,31.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-04-04,,,Feminino,42.0,"Tosse, Dor de Garganta",,Sim
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,46.0,"Distúrbios Gustativos, Febre, Tosse",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,44.0,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-03-21,,,Feminino,5.0,Assintomático,,Não
+Araranguá,2024-01-22,,,Feminino,22.0,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",,Sim
+Araranguá,2024-05-03,,,Feminino,34.0,"Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-06-12,,Descartado,Masculino,8.0,"Tosse, Outros, Dor de Cabeça",,Não
+Araranguá,2024-01-08,,,Masculino,,"Tosse, Dor de Cabeça",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,26.0,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-08-06,,,Feminino,,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,13.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-28,,,Masculino,16.0,"Coriza, Tosse",,Não
+Araranguá,2024-04-05,,Descartado,Feminino,,"Tosse, Febre, Coriza",,Não
+Araranguá,2024-05-28,,,Feminino,45.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Masculino,12.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-04-08,,,Masculino,,"Tosse, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-03-03,Cancelado,,Masculino,39.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-01-12,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-01-06,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-01-22,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Masculino,19.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,5.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-09-20,,,Feminino,,Assintomático,,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-08-29,Cancelado,,Masculino,9.0,Febre,,Não
+Araranguá,2024-05-28,,Descartado,Feminino,22.0,"Dor de Cabeça, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,15.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-05,,,Feminino,,"Dor de Cabeça, Tosse, Dispneia","Doenças respiratórias crônicas descompensadas, Diabetes",Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-01-27,,,Masculino,7.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Garganta",,Não
+Araranguá,2024-03-09,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-05-09,,Descartado,Feminino,,"Tosse, Coriza",,Não
+Araranguá,2024-06-10,,,Masculino,24.0,"Coriza, Tosse, Outros",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Feminino,21.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-29,,,Masculino,48.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Dor de Garganta, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,37.0,"Distúrbios Olfativos, Dor de Cabeça, Distúrbios Gustativos",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Feminino,46.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,31.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-01-16,Cura,Confirmado Laboratorial,Masculino,51.0,Dor de Garganta,,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Masculino,36.0,Febre,,Não
+Araranguá,2024-07-25,,,Feminino,42.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-08-02,,Descartado,Feminino,21.0,"Tosse, Dispneia, Febre",,Não
+Araranguá,2024-01-19,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,36.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-01-02,,Descartado,Masculino,,"Tosse, Outros, Dor de Garganta",,Não
+Araranguá,2024-05-08,,,Feminino,0.0,"Coriza, Tosse",,Não
+Araranguá,2024-04-30,,,Feminino,,"Coriza, Tosse",,Não
+Araranguá,2024-01-02,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Masculino,24.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-05-23,,Descartado,Feminino,45.0,"Dor de Cabeça, Febre, Coriza",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,38.0,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-01-31,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-08-23,,,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-06-14,,,Masculino,49.0,"Tosse, Coriza",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Masculino,26.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-01-11,,Descartado,Feminino,52.0,"Coriza, Tosse, Febre, Outros",,Não
+Araranguá,2024-01-15,Cura,Confirmado Laboratorial,Masculino,17.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-08,,,Masculino,32.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-08-19,,,Feminino,28.0,"Tosse, Dor de Garganta, Febre",,Sim
+Araranguá,2024-06-07,,Descartado,Masculino,24.0,"Coriza, Tosse",,Não
+Araranguá,2024-06-10,,Descartado,Masculino,27.0,Dor de Garganta,,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,41.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Feminino,30.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,36.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-21,,Descartado,Masculino,,"Dor de Garganta, Tosse",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,34.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,22.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2021-10-06,,Descartado,Masculino,5.0,Assintomático,,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,33.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,42.0,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Masculino,16.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Feminino,24.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-01-22,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Tosse",,Não
+Araranguá,2024-05-31,,Descartado,Feminino,54.0,"Coriza, Dor de Cabeça, Outros, Febre",,Não
+Araranguá,2024-01-14,,,Feminino,47.0,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Coriza",,Não
+Araranguá,2024-05-03,,,Feminino,31.0,"Tosse, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,25.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-08-23,,,Feminino,1.0,Assintomático,,Não
+Araranguá,2024-09-21,,,Feminino,0.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-05-12,,,Feminino,24.0,"Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,32.0,"Coriza, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-09-18,,,Masculino,,"Tosse, Dor de Garganta, Febre",Outros,Não
+Araranguá,2024-03-05,,,Feminino,40.0,Dor de Garganta,,Não
+Araranguá,2024-03-02,,,Masculino,,"Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,43.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,40.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Distúrbios Gustativos, Coriza",,Não
+Araranguá,2024-03-04,,,Feminino,36.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-01-24,Cura,Confirmado Laboratorial,Masculino,53.0,"Distúrbios Olfativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-14,,,Feminino,,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Masculino,35.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-08-28,,,Feminino,0.0,"Tosse, Dispneia",,Não
+Araranguá,2024-09-03,,,Feminino,1.0,"Tosse, Febre, Dispneia, Coriza",,Não
+Araranguá,2024-02-11,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dispneia, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,41.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Masculino,41.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,21.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,35.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-08,,,Feminino,28.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,30.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-08-22,,,Feminino,4.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-09-26,,,Masculino,16.0,Assintomático,,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Masculino,39.0,"Distúrbios Olfativos, Dor de Cabeça, Distúrbios Gustativos",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-09-26,,,Masculino,23.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-22,,,Masculino,32.0,"Coriza, Outros, Febre",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Feminino,24.0,"Outros, Dor de Cabeça",,Não
+Araranguá,2024-08-20,,,Feminino,,Assintomático,,Sim
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Feminino,24.0,"Coriza, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-06-12,,Descartado,Feminino,,"Dispneia, Outros, Tosse",,Não
+Araranguá,2024-05-16,,Descartado,Feminino,9.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,44.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-08-03,,,Masculino,2.0,"Tosse, Febre",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Feminino,18.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,39.0,"Coriza, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-02-02,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-06-15,,,Feminino,4.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Masculino,49.0,"Coriza, Distúrbios Gustativos, Distúrbios Olfativos",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,40.0,"Coriza, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-03-04,,Descartado,Feminino,17.0,Coriza,,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,29.0,"Distúrbios Olfativos, Dor de Cabeça, Distúrbios Gustativos",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Masculino,20.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-05-09,,Descartado,Masculino,45.0,Assintomático,,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Dispneia, Tosse",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Masculino,30.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,53.0,"Coriza, Distúrbios Olfativos, Tosse",,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Feminino,21.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,25.0,"Febre, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-01-17,Cura,Confirmado Laboratorial,Feminino,48.0,"Coriza, Febre, Dispneia",,Não
+Araranguá,2024-01-25,,,Masculino,,"Dor de Garganta, Outros, Tosse",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,19.0,"Coriza, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,43.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-09,,,Feminino,1.0,"Dispneia, Febre",,Não
+Araranguá,2024-04-06,,,Feminino,7.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Masculino,20.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,20.0,"Coriza, Distúrbios Olfativos, Febre",,Não
+Araranguá,2024-02-28,,,Masculino,23.0,"Tosse, Dispneia, Dor de Garganta, Outros",,Não
+Araranguá,2024-01-05,Cura,Confirmado Laboratorial,Feminino,48.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-07-05,,,Masculino,0.0,"Tosse, Febre",,Não
+Araranguá,2024-05-27,,,Feminino,32.0,"Dor de Cabeça, Tosse, Dispneia, Outros",,Não
+Araranguá,2024-05-23,,Descartado,Feminino,4.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,49.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Feminino,50.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-08-19,,,Feminino,1.0,"Febre, Outros",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-13,,Descartado,Masculino,20.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-06-10,,,Feminino,0.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,37.0,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-09,Cura,Confirmado Laboratorial,Masculino,52.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,51.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,34.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-04-19,,,Masculino,9.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Masculino,40.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-02,,,Masculino,38.0,Coriza,Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,37.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-04-07,,,Feminino,1.0,Febre,Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-01-23,Cura,Confirmado Laboratorial,Feminino,21.0,"Coriza, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-02-27,,Descartado,Feminino,12.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-05,Cura,Confirmado Laboratorial,Masculino,27.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-05-07,,Descartado,Feminino,1.0,"Coriza, Febre, Tosse",,Não
+Araranguá,2024-02-28,,Descartado,Feminino,,"Coriza, Outros",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,44.0,"Distúrbios Gustativos, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-02-26,,,Feminino,27.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-26,,Descartado,Masculino,,"Febre, Outros",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,36.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-05-03,,,Feminino,0.0,"Tosse, Outros",,Não
+Araranguá,2024-02-21,,Descartado,Feminino,,"Coriza, Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-21,Cura,Confirmado Laboratorial,Masculino,,"Dor de Garganta, Outros",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Febre",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Outros",,Não
+Araranguá,2024-02-19,,,Feminino,25.0,"Dor de Cabeça, Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Masculino,8.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-12,,,Feminino,0.0,Tosse,,Não
+Araranguá,2024-09-09,,Descartado,Feminino,,Assintomático,,Não
+Araranguá,2024-03-24,Cura,Confirmado Laboratorial,Feminino,47.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,33.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-05-23,,,Feminino,12.0,Dor de Garganta,,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,35.0,"Coriza, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,31.0,Dor de Garganta,,Não
+Araranguá,2024-02-29,,,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,30.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,42.0,"Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-01-10,,,Feminino,35.0,"Distúrbios Olfativos, Febre, Outros",,Não
+Araranguá,2024-09-09,,,Feminino,0.0,Febre,,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Feminino,4.0,Febre,,Não
+Araranguá,2024-08-14,,Descartado,Masculino,7.0,Assintomático,,Não
+Araranguá,2024-08-20,,,Masculino,26.0,"Tosse, Febre, Dor de Garganta",Outros,Sim
+Araranguá,2024-05-31,,Descartado,Masculino,,Assintomático,,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,18.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Masculino,17.0,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-05-13,,,Feminino,26.0,"Coriza, Tosse, Febre, Dor de Garganta",,Sim
+Araranguá,2024-01-19,,,Feminino,,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-04-26,,Descartado,Feminino,5.0,"Coriza, Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-09-26,,,Masculino,30.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-12,,Descartado,Masculino,1.0,"Febre, Outros",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-05-15,,Descartado,Masculino,34.0,"Tosse, Dor de Garganta",,Não
+Araranguá,2024-01-05,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Feminino,50.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-03-08,,,Feminino,30.0,"Coriza, Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-15,,Descartado,Feminino,20.0,Assintomático,,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,19.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Feminino,33.0,"Dor de Cabeça, Dor de Garganta, Coriza",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dispneia",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,40.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2022-01-21,,,Masculino,49.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-01-29,Cura,Confirmado Laboratorial,Feminino,40.0,"Outros, Coriza",,Não
+Araranguá,2024-02-06,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Febre, Outros",,Não
+Araranguá,2024-02-27,,,Feminino,19.0,"Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-04-26,,Descartado,Feminino,,"Tosse, Febre, Dispneia, Outros, Coriza",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,40.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-27,,Descartado,Masculino,38.0,"Coriza, Febre, Outros",,Não
+Araranguá,2024-03-21,,Descartado,Feminino,6.0,"Febre, Outros",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Masculino,17.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,27.0,"Febre, Dispneia, Dor de Cabeça",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,42.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-01-08,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-28,,,Masculino,,"Tosse, Coriza",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,38.0,"Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-04-13,,,Feminino,1.0,"Coriza, Tosse, Febre",Portador de doenças cromossômicas ou estado de fragilidade imunológica,Não
+Araranguá,2024-04-24,,,Feminino,22.0,"Coriza, Dor de Cabeça, Outros",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,24.0,"Tosse, Outros",,Não
+Araranguá,2024-07-22,,Descartado,Masculino,49.0,"Dor de Garganta, Febre",,Não
+Araranguá,2024-01-31,Cura,Confirmado Laboratorial,Feminino,38.0,Outros,,Não
+Araranguá,2024-03-15,,Descartado,Feminino,48.0,"Dor de Cabeça, Outros, Coriza",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Masculino,39.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-01,,Descartado,Feminino,50.0,"Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-04-30,,,Masculino,,"Outros, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,20.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Masculino,24.0,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,34.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-20,,,Masculino,42.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-01-25,,,Feminino,44.0,"Coriza, Dor de Cabeça, Tosse, Febre, Dispneia",,Sim
+Araranguá,2024-02-26,,,Masculino,34.0,"Coriza, Dor de Cabeça, Tosse, Dispneia, Distúrbios Olfativos",Outros,Não
+Araranguá,2024-09-16,,,Feminino,5.0,"Tosse, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,21.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,45.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-14,,Descartado,Feminino,23.0,"Dor de Cabeça, Febre, Outros, Dispneia",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-08,,,Feminino,14.0,"Tosse, Dispneia, Coriza",,Não
+Araranguá,2024-03-08,,,Masculino,,Assintomático,"Doenças cardíacas crônicas, Outros",Não
+Araranguá,2024-05-28,Cura,Confirmado Laboratorial,Masculino,41.0,"Coriza, Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-08-02,,Descartado,Feminino,36.0,"Febre, Dor de Cabeça",,Não
+Araranguá,2024-08-02,,Descartado,Feminino,,"Distúrbios Olfativos, Tosse, Dor de Garganta, Distúrbios Gustativos",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,48.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-08-23,,,Masculino,28.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-12,,,Feminino,,"Tosse, Febre, Dispneia",Doenças cardíacas crônicas,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Masculino,30.0,"Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-04-10,,Descartado,Masculino,23.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-02-20,Cancelado,,Feminino,25.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-21,,,Feminino,41.0,"Dor de Garganta, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,16.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-26,,,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-11,,,Masculino,1.0,"Febre, Tosse",Outros,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,34.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-12,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,,Outros,,Não
+Araranguá,2024-03-15,,,Feminino,21.0,"Coriza, Dor de Cabeça, Tosse",,Sim
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,38.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-07,,,Masculino,37.0,"Outros, Febre",,Não
+Araranguá,2024-06-06,,,Feminino,10.0,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-05-22,,Descartado,Feminino,32.0,"Dor de Cabeça, Outros, Tosse",,Não
+Araranguá,2024-08-29,,,Feminino,43.0,"Febre, Outros, Dor de Cabeça",,Não
+Araranguá,2024-02-26,,,Feminino,34.0,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",,Sim
+Araranguá,2024-09-06,,,Feminino,5.0,Assintomático,,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-07-09,,Descartado,Feminino,7.0,"Dor de Cabeça, Tosse, Febre, Outros",,Não
+Araranguá,2024-07-27,,,Masculino,1.0,"Coriza, Tosse",,Não
+Araranguá,2024-03-11,,,Feminino,29.0,"Coriza, Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-29,,Confirmado Laboratorial,Masculino,2.0,Coriza,,Não
+Araranguá,2024-05-09,,Descartado,Feminino,22.0,"Dor de Cabeça, Tosse, Febre, Outros",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,26.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Masculino,22.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-14,Cura,Confirmado Laboratorial,Feminino,22.0,"Coriza, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-02-11,Cura,Confirmado Laboratorial,Feminino,43.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-08-02,,Descartado,Masculino,,"Coriza, Tosse, Outros, Febre",,Não
+Araranguá,2024-08-16,,,Feminino,13.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-01-23,Cura,Confirmado Laboratorial,Masculino,45.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-01-31,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-27,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,23.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,31.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-08-28,,,Masculino,43.0,Febre,,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,45.0,"Distúrbios Gustativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-09-10,,,Masculino,2.0,"Coriza, Tosse, Febre, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-22,,,Masculino,,"Dor de Cabeça, Tosse, Dispneia, Outros, Dor de Garganta",,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Masculino,21.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-01-20,,,Masculino,34.0,Coriza,,Sim
+Araranguá,2024-07-05,,Descartado,Feminino,4.0,"Dor de Cabeça, Coriza",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Masculino,33.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-03-21,Cura,Confirmado Laboratorial,Feminino,,"Dispneia, Outros, Dor de Cabeça",,Não
+Araranguá,2024-03-06,,,Feminino,,"Febre, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Masculino,20.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-10,Cura,Confirmado Laboratorial,Feminino,29.0,"Febre, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,25.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-01-11,Cura,Confirmado Laboratorial,Feminino,31.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-05-31,,Descartado,Feminino,9.0,"Coriza, Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-05-02,,Descartado,Feminino,28.0,"Outros, Febre",,Não
+Araranguá,2024-03-14,,Descartado,Feminino,18.0,"Coriza, Dor de Cabeça, Outros, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,45.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-07,,Descartado,Feminino,,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-16,Cura,Confirmado Laboratorial,Masculino,28.0,"Coriza, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-29,,,Masculino,53.0,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,20.0,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-05-27,Cura,Confirmado Laboratorial,Masculino,41.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,49.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-19,,,Masculino,45.0,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",,Não
+Araranguá,2024-03-09,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,44.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,10.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,29.0,"Coriza, Dor de Cabeça, Dor de Garganta",Gestante,Não
+Araranguá,2024-05-02,,Descartado,Masculino,40.0,"Dor de Cabeça, Dispneia, Outros, Tosse",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,28.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-01-12,,,Feminino,31.0,"Dor de Cabeça, Tosse, Febre, Outros",,Sim
+Araranguá,2024-05-09,,Descartado,Masculino,6.0,"Coriza, Tosse, Febre, Outros",,Não
+Araranguá,2024-02-22,,,Feminino,20.0,"Coriza, Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-09-12,,,Feminino,51.0,"Tosse, Outros",,Não
+Araranguá,2024-02-05,,Descartado,Masculino,34.0,"Dor de Cabeça, Febre, Outros, Dor de Garganta",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,23.0,"Coriza, Tosse",,Não
+Araranguá,2024-09-09,,Descartado,Feminino,,"Tosse, Outros, Dispneia",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,46.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,26.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,32.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-05-28,,,Feminino,21.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-04,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-26,Cura,Confirmado Laboratorial,Feminino,25.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,41.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-01-31,,Descartado,Feminino,43.0,"Dor de Cabeça, Febre, Outros, Dispneia",,Não
+Araranguá,2024-01-08,,Descartado,Masculino,35.0,"Outros, Dor de Cabeça",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Masculino,36.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-02,,,Feminino,43.0,"Coriza, Dor de Garganta",,Não
+Araranguá,2024-09-12,,,Masculino,28.0,"Tosse, Febre, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Masculino,47.0,Outros,,Não
+Araranguá,2024-03-07,,Descartado,Masculino,31.0,Outros,,Não
+Araranguá,2024-02-21,,Descartado,Masculino,,"Dor de Cabeça, Tosse, Coriza",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,31.0,"Coriza, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,36.0,"Distúrbios Olfativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,19.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-28,Cura,Confirmado Laboratorial,Masculino,41.0,"Coriza, Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-26,,,Masculino,36.0,"Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Masculino,30.0,"Tosse, Dor de Cabeça",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-10,,Descartado,Masculino,48.0,Coriza,,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,40.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-05-24,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,27.0,"Distúrbios Gustativos, Febre, Dispneia",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,49.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Masculino,40.0,"Coriza, Distúrbios Olfativos, Dor de Cabeça",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,28.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-01-08,Cura,Confirmado Laboratorial,Feminino,26.0,"Coriza, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-04-19,,Descartado,Feminino,40.0,"Coriza, Dor de Cabeça, Outros",,Não
+Araranguá,2024-06-24,,Descartado,Feminino,50.0,"Coriza, Outros",,Não
+Araranguá,2024-03-02,,,Masculino,18.0,"Dor de Cabeça, Dor de Garganta, Distúrbios Gustativos",,Não
+Araranguá,2024-01-26,Cura,Confirmado Laboratorial,Feminino,34.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,14.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,39.0,"Coriza, Febre, Outros, Dor de Garganta",,Não
+Araranguá,2024-08-27,Cancelado,,Feminino,,"Tosse, Dispneia, Outros",,Não
+Araranguá,2024-08-26,,,Feminino,27.0,"Tosse, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,34.0,"Distúrbios Gustativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,30.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Olfativos, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-02-02,Cura,Confirmado Laboratorial,Feminino,21.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-04,,Descartado,Feminino,27.0,Outros,,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-28,,,Feminino,,"Coriza, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-03-13,,Descartado,Feminino,44.0,"Coriza, Outros, Dor de Cabeça",,Não
+Araranguá,2024-05-22,,Descartado,Masculino,,Assintomático,,Não
+Araranguá,2024-06-10,,Descartado,Feminino,17.0,"Dor de Cabeça, Outros, Tosse",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,41.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-02,,,Feminino,4.0,"Coriza, Distúrbios Olfativos, Febre",,Não
+Araranguá,2024-06-04,,,Feminino,28.0,Dor de Garganta,,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,24.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-08-23,,,Feminino,54.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-06-05,,Descartado,Feminino,27.0,Dor de Garganta,,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Feminino,49.0,"Distúrbios Olfativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-04-23,,,Masculino,,Tosse,,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,11.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,36.0,"Coriza, Tosse",,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Masculino,18.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,41.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-08-05,,,Masculino,1.0,"Febre, Outros",,Não
+Araranguá,2024-04-11,Cura,Confirmado Laboratorial,Feminino,49.0,"Coriza, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,45.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-01-09,Cura,Confirmado Laboratorial,Feminino,47.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-02,,,Masculino,39.0,Outros,,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Masculino,25.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,29.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-06-07,,Descartado,Feminino,11.0,"Febre, Outros, Dor de Garganta",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,41.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-20,,Descartado,Feminino,37.0,Dor de Cabeça,,Não
+Araranguá,2024-09-03,,,Masculino,45.0,"Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,30.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-01-16,Cura,Confirmado Laboratorial,Masculino,,Assintomático,,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Feminino,25.0,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,23.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Masculino,28.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,44.0,"Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,1.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-05-28,,Descartado,Masculino,44.0,"Dor de Cabeça, Outros, Tosse",,Não
+Araranguá,2024-06-18,,Descartado,Masculino,0.0,"Tosse, Febre, Coriza",,Não
+Araranguá,2024-01-17,,Descartado,Feminino,,"Coriza, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,50.0,"Coriza, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-04-24,,,Feminino,21.0,"Febre, Outros, Dor de Garganta",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-05-27,,,Masculino,2.0,"Tosse, Dispneia",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-08,,,Feminino,29.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-06-04,,,Feminino,28.0,Dor de Garganta,,Não
+Araranguá,2024-03-10,,,Feminino,32.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-14,Cura,Confirmado Laboratorial,Masculino,21.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,24.0,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,,Outros,,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,30.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-11,,,Masculino,30.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-02-27,,,Masculino,8.0,Febre,,Não
+Araranguá,2024-01-26,Cura,Confirmado Laboratorial,Feminino,34.0,"Distúrbios Gustativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-01-29,Cura,Confirmado Laboratorial,Masculino,7.0,"Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Masculino,25.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-09-26,,,Masculino,,"Coriza, Dor de Cabeça, Outros",,Não
+Araranguá,2024-02-22,,,Masculino,,"Febre, Dor de Garganta, Tosse",,Não
+Araranguá,2024-02-07,Cancelado,,Feminino,28.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-09,,,Masculino,,"Dispneia, Outros",,Não
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Masculino,33.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-02-29,,,Masculino,7.0,"Tosse, Febre",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,38.0,"Coriza, Dispneia, Febre",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,53.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-28,Cancelado,,Masculino,3.0,"Febre, Dispneia",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Masculino,51.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-05-21,,,Feminino,2.0,Febre,,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-04,Cura,Confirmado Laboratorial,Feminino,19.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-03-19,,,Feminino,42.0,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Masculino,53.0,"Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-03-08,,,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-09,,Descartado,Feminino,47.0,"Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-05-22,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-09-01,,,Feminino,12.0,"Tosse, Dispneia",,Não
+Araranguá,2024-01-24,,,Feminino,38.0,"Coriza, Dor de Cabeça, Dispneia",,Sim
+Araranguá,2024-07-12,,,Masculino,0.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Masculino,8.0,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-05-08,,,Feminino,5.0,Febre,,Não
+Araranguá,2024-09-03,,,Feminino,51.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,25.0,"Coriza, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,41.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-08-14,,Descartado,Feminino,46.0,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Dispneia, Outros, Dor de Garganta",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-12,,,Feminino,21.0,"Dor de Cabeça, Febre, Tosse",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,32.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Masculino,36.0,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-04-25,Cancelado,,Feminino,37.0,"Coriza, Dor de Cabeça, Dispneia, Tosse",,Não
+Araranguá,2024-01-18,,,Masculino,,"Tosse, Dispneia, Outros","Doenças respiratórias crônicas descompensadas, Doenças cardíacas crônicas",Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,43.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-02,,Descartado,Masculino,3.0,"Coriza, Tosse, Febre, Outros, Dor de Cabeça",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-04-25,Cancelado,,Masculino,41.0,"Outros, Dor de Cabeça",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-03-07,,,Feminino,46.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Tosse",Doenças cardíacas crônicas,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Masculino,23.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-09-18,,,Feminino,1.0,Outros,,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,39.0,"Distúrbios Gustativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-02-19,,,Feminino,52.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-05-28,,Descartado,Feminino,,"Coriza, Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,15.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-14,,,Feminino,23.0,Assintomático,Outros,Não
+Araranguá,2024-03-03,,,Masculino,39.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-01-14,Cura,Confirmado Laboratorial,Feminino,45.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-14,,,Feminino,35.0,"Dor de Cabeça, Tosse, Outros",Obesidade,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,12.0,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,12.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Masculino,47.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-09,Cura,Confirmado Laboratorial,Feminino,51.0,"Distúrbios Gustativos, Febre, Dispneia",,Não
+Araranguá,2024-01-18,Cura,Confirmado Laboratorial,Feminino,18.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,28.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-27,,,Feminino,33.0,"Coriza, Tosse",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-01,,,Masculino,1.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Feminino,34.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-01,,,Masculino,25.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,29.0,Dor de Cabeça,,Não
+Araranguá,2024-05-09,,Descartado,Feminino,46.0,"Coriza, Dor de Cabeça, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,19.0,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-05-16,,Descartado,Masculino,,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Masculino,40.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-01-20,,,Masculino,23.0,"Coriza, Dor de Cabeça, Febre, Outros",,Sim
+Araranguá,2024-09-26,,,Masculino,0.0,Coriza,,Não
+Araranguá,2024-03-04,,,Masculino,40.0,"Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-05-24,,,Feminino,,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-03-08,,,Feminino,41.0,"Coriza, Dor de Garganta",,Sim
+Araranguá,2024-01-12,Cura,Confirmado Laboratorial,Feminino,23.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-25,,Descartado,Feminino,37.0,"Coriza, Dor de Cabeça, Dispneia, Tosse",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,48.0,"Dor de Cabeça, Outros",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,44.0,Dor de Cabeça,,Não
+Araranguá,2024-08-15,,,Feminino,0.0,Outros,,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-09,,,Feminino,30.0,"Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Masculino,42.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,16.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-06-04,,,Masculino,27.0,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-13,,,Feminino,29.0,"Coriza, Tosse, Dor de Garganta, Outros",,Sim
+Araranguá,2024-03-07,,,Masculino,32.0,"Tosse, Dispneia",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-09-02,,,Feminino,42.0,"Tosse, Febre, Dor de Garganta, Dor de Cabeça",,Sim
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-27,,,Feminino,32.0,Assintomático,,Não
+Araranguá,2024-05-22,,Descartado,Masculino,6.0,"Tosse, Coriza",,Não
+Araranguá,2024-01-09,,,Feminino,31.0,"Dor de Cabeça, Tosse, Febre, Dispneia",,Sim
+Araranguá,2024-01-06,Cura,Confirmado Laboratorial,Feminino,31.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,40.0,"Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-04,,,Feminino,39.0,"Dor de Garganta, Febre",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Masculino,40.0,"Outros, Febre",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,38.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,42.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,49.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Olfativos, Dor de Cabeça",,Não
+Araranguá,2024-06-27,,Descartado,Masculino,36.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,38.0,"Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Masculino,34.0,"Coriza, Distúrbios Olfativos, Dispneia",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,28.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,8.0,"Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Febre, Outros",,Não
+Araranguá,2024-04-17,,,Feminino,49.0,Coriza,,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,50.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-09-25,,,Feminino,18.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",,Não
+Araranguá,2024-04-23,,,Masculino,52.0,"Coriza, Febre, Outros",,Não
+Araranguá,2024-09-25,,,Masculino,24.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-10,,,Feminino,41.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-03,,,Masculino,1.0,"Coriza, Febre",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,23.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-08-20,,,Feminino,0.0,Outros,Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-05,,,Feminino,33.0,"Coriza, Distúrbios Olfativos, Dor de Cabeça, Tosse, Distúrbios Gustativos",,Não
+Araranguá,2024-01-22,Cura,Confirmado Laboratorial,Feminino,37.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-08-18,,,Masculino,1.0,"Coriza, Tosse",,Não
+Araranguá,2024-08-05,,,Masculino,1.0,Outros,,Não
+Araranguá,2024-08-19,,,Masculino,50.0,Assintomático,,Não
+Araranguá,2024-09-10,,,Masculino,49.0,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-04-24,,,Feminino,41.0,"Coriza, Dor de Cabeça, Febre, Tosse",,Não
+Araranguá,2024-05-17,,,Masculino,24.0,"Coriza, Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,44.0,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-01-16,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-01-01,Cura,Confirmado Laboratorial,Feminino,22.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-07,,,Feminino,37.0,"Outros, Coriza",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,44.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-08-14,,Descartado,Feminino,28.0,"Tosse, Febre, Dor de Garganta, Distúrbios Olfativos",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Masculino,25.0,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,23.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-27,,Descartado,Masculino,27.0,"Dor de Garganta, Outros",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,43.0,"Distúrbios Olfativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-01,,,Masculino,,"Coriza, Dor de Garganta, Outros",,Não
+Araranguá,2024-04-04,,,Feminino,40.0,"Coriza, Dor de Cabeça, Tosse",,Sim
+Araranguá,2024-05-13,,Descartado,Feminino,6.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-07-19,,Descartado,Masculino,31.0,"Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,53.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",,Não
+Araranguá,2024-03-22,,,Feminino,53.0,Outros,,Não
+Araranguá,2024-04-10,,,Masculino,2.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-01-24,Cura,Confirmado Laboratorial,Feminino,15.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,32.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-05,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-01-23,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Dispneia, Tosse",,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Masculino,51.0,"Febre, Outros",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Masculino,42.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-07,,Descartado,Masculino,49.0,"Distúrbios Olfativos, Dor de Cabeça, Outros",,Não
+Araranguá,2024-02-03,Cura,Confirmado Laboratorial,Feminino,37.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,14.0,"Coriza, Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-09,Cura,Confirmado Laboratorial,Feminino,48.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,21.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-06-17,,Descartado,Feminino,5.0,"Outros, Febre",,Não
+Araranguá,2024-03-21,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-09-09,,Descartado,Feminino,39.0,"Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Febre, Outros, Tosse",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,49.0,"Coriza, Dor de Cabeça, Dispneia, Outros",,Não
+Araranguá,2024-03-24,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,0.0,"Coriza, Dor de Cabeça, Distúrbios Gustativos",,Não
+Araranguá,2024-02-24,,,Feminino,0.0,"Coriza, Febre",,Não
+Araranguá,2024-02-29,,,Feminino,,Assintomático,,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Masculino,20.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-07-14,,,Masculino,12.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,23.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-18,,,Feminino,38.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-02,,,Feminino,,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-05-17,,Descartado,Masculino,6.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-05-14,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-09-09,,Descartado,Masculino,48.0,Coriza,,Não
+Araranguá,2024-08-22,,Descartado,Masculino,,"Coriza, Tosse",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Masculino,16.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,38.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Masculino,38.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-08,,,Masculino,41.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-15,,Descartado,Feminino,33.0,"Dor de Cabeça, Tosse, Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-23,,,Feminino,29.0,"Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-08-22,,Descartado,Feminino,,Assintomático,,Não
+Araranguá,2024-04-16,,,Feminino,,Assintomático,,Não
+Araranguá,2024-05-08,,,Masculino,33.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-09-26,,,Feminino,12.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-05-01,,,Masculino,0.0,"Tosse, Dispneia, Coriza",,Não
+Araranguá,2024-06-24,,,Masculino,0.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-09-18,,,Feminino,0.0,"Coriza, Febre, Dispneia",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,39.0,"Dor de Cabeça, Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-01-04,Cura,Confirmado Laboratorial,Feminino,53.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-01-03,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,31.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,,"Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-03-03,Cancelado,,Masculino,38.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-06-07,,Descartado,Feminino,36.0,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-08-02,,,Feminino,31.0,"Coriza, Tosse, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,30.0,"Coriza, Tosse, Outros",,Não
+Araranguá,2024-05-23,,Descartado,Masculino,4.0,"Dor de Cabeça, Outros",,Não
+Araranguá,2024-02-24,,,Masculino,1.0,"Febre, Outros",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-01-22,,,Feminino,,"Tosse, Coriza",,Não
+Araranguá,2024-03-01,,,Feminino,47.0,Assintomático,,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,50.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-05-21,,Descartado,Feminino,48.0,"Dor de Cabeça, Tosse, Febre, Outros, Coriza",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Masculino,18.0,Coriza,,Não
+Araranguá,2024-04-04,,,Feminino,36.0,"Coriza, Tosse, Outros",,Sim
+Araranguá,2024-08-22,,Descartado,Feminino,33.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-01-12,,,Masculino,32.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-04-25,,Descartado,Masculino,4.0,Febre,,Não
+Araranguá,2024-05-02,,Descartado,Masculino,42.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-08-11,,,Feminino,4.0,"Coriza, Tosse",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-04-04,Cura,Confirmado Laboratorial,Feminino,20.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-08-27,,,Feminino,15.0,"Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Feminino,21.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-31,,,Feminino,23.0,"Tosse, Febre, Dor de Garganta, Dispneia",,Sim
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Feminino,32.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-06-04,,,Masculino,36.0,"Coriza, Febre, Dor de Garganta, Tosse",,Não
+Araranguá,2024-06-12,,Descartado,Masculino,10.0,"Febre, Tosse",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,24.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-24,Cura,Confirmado Laboratorial,Feminino,20.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-23,,Descartado,Feminino,30.0,"Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-09-06,,,Feminino,26.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Masculino,37.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-09-27,,,Masculino,39.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2021-02-24,,,Masculino,23.0,Assintomático,,Não
+Araranguá,2024-08-05,,,Feminino,0.0,Tosse,,Não
+Araranguá,2024-01-23,Cura,Confirmado Laboratorial,Feminino,40.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-15,,Descartado,Feminino,,"Coriza, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,30.0,"Dor de Cabeça, Tosse, Dor de Garganta, Distúrbios Gustativos",,Não
+Araranguá,2024-03-08,,,Feminino,,"Dor de Cabeça, Tosse, Coriza",,Não
+Araranguá,2024-01-16,,Descartado,Feminino,,Dor de Garganta,,Não
+Araranguá,2024-02-06,Cura,Confirmado Laboratorial,Feminino,35.0,"Coriza, Outros, Dor de Garganta",,Não
+Araranguá,2024-02-15,,,Masculino,8.0,"Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Febre, Dispneia",,Não
+Araranguá,2024-03-24,Óbito,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-23,,,Feminino,37.0,"Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Masculino,44.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Feminino,39.0,"Distúrbios Gustativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,35.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-01-09,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Masculino,52.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,19.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-02,Cura,Confirmado Laboratorial,Feminino,36.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,48.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,44.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Feminino,42.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-08-16,,,Feminino,6.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-06-13,,,Feminino,,Assintomático,"Outros, Diabetes",Não
+Araranguá,2024-06-12,,,Feminino,,"Coriza, Tosse, Febre, Dispneia",Doenças cardíacas crônicas,Não
+Araranguá,2024-02-14,Cura,Confirmado Laboratorial,Feminino,17.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,43.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,19.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,12.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-27,,,Masculino,30.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-01-25,,,Masculino,0.0,"Dispneia, Outros",,Sim
+Araranguá,2024-07-30,,,Masculino,0.0,"Coriza, Tosse",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,24.0,"Distúrbios Gustativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-07-29,,,Feminino,43.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-04-04,,Descartado,Masculino,11.0,"Febre, Outros, Dor de Garganta",,Não
+Araranguá,2024-02-20,,Descartado,Feminino,52.0,"Distúrbios Gustativos, Dor de Cabeça, Coriza",,Não
+Araranguá,2024-07-24,,,Feminino,36.0,"Coriza, Tosse, Dispneia",Gestante,Não
+Araranguá,2024-06-10,,,Feminino,0.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Masculino,19.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Feminino,36.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,26.0,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-01-09,,,Feminino,31.0,Assintomático,Outros,Não
+Araranguá,2024-03-28,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-04-25,,Descartado,Feminino,,Dor de Cabeça,,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-04-25,,,Feminino,24.0,"Dor de Cabeça, Tosse, Febre, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Feminino,21.0,"Distúrbios Gustativos, Febre, Tosse",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-01-11,Cura,Confirmado Laboratorial,Feminino,27.0,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-08-07,,,Masculino,43.0,Assintomático,,Não
+Araranguá,2024-02-14,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-08-28,,,Feminino,1.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-04-24,,,Feminino,5.0,"Tosse, Febre",,Não
+Araranguá,2024-05-05,,,Feminino,7.0,"Tosse, Dispneia, Febre",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-07-23,,,Feminino,29.0,"Tosse, Febre, Dor de Garganta",,Sim
+Araranguá,2024-03-22,,,Masculino,32.0,"Coriza, Outros, Febre",,Não
+Araranguá,2024-03-19,,,Feminino,52.0,"Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-09-26,,,Feminino,,"Coriza, Outros",,Não
+Araranguá,2024-01-06,Cura,Confirmado Laboratorial,Feminino,35.0,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,21.0,"Distúrbios Gustativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,3.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-28,Cura,Confirmado Laboratorial,Feminino,50.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,35.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-05-17,,,Masculino,,"Coriza, Tosse, Febre, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Feminino,53.0,"Distúrbios Olfativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,35.0,"Febre, Coriza",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Masculino,42.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,29.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,37.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-09-24,,,Feminino,25.0,Assintomático,,Não
+Araranguá,2024-03-14,,Descartado,Feminino,12.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Feminino,18.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-05-09,,Descartado,Feminino,3.0,"Coriza, Febre, Outros",,Não
+Araranguá,2024-07-09,,,Feminino,,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-01-05,,,Masculino,48.0,Assintomático,,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Feminino,30.0,"Distúrbios Olfativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,44.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Feminino,36.0,"Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-23,,,Feminino,27.0,"Tosse, Febre",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Masculino,37.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-07-16,,Descartado,Feminino,45.0,"Coriza, Tosse",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-21,,,Masculino,27.0,"Coriza, Outros",Outros,Não
+Araranguá,2024-04-30,,Síndrome Gripal Não Especificada,Feminino,6.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-06-06,Cancelado,,Feminino,,Outros,,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,42.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-09-24,,,Feminino,,Tosse,,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,40.0,Dor de Garganta,,Não
+Araranguá,2024-05-27,,Descartado,Masculino,5.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-06-06,,Descartado,Masculino,35.0,"Tosse, Coriza",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Masculino,43.0,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Masculino,50.0,"Outros, Coriza",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,21.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-28,,,Masculino,21.0,"Dor de Cabeça, Febre, Dor de Garganta, Outros",Gestante,Sim
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,22.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-09,,Descartado,Feminino,38.0,"Dispneia, Outros, Dor de Garganta",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,42.0,"Distúrbios Gustativos, Febre, Tosse",,Não
+Araranguá,2024-04-30,,Descartado,Feminino,17.0,"Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,40.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-08-14,,Descartado,Feminino,14.0,"Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-31,,Descartado,Feminino,,"Tosse, Febre, Dispneia, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-02-16,,,Feminino,50.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta, Outros",,Não
+Araranguá,2024-06-03,,Descartado,Feminino,11.0,Assintomático,,Não
+Araranguá,2024-05-22,Cura,Confirmado Laboratorial,Feminino,44.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-06-05,Cura,Confirmado Laboratorial,Feminino,41.0,"Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-03-27,,,Feminino,1.0,"Febre, Outros",,Não
+Araranguá,2024-04-05,Cancelado,,Masculino,,"Coriza, Tosse",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Dor de Garganta",,Não
+Araranguá,2024-01-06,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-12,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-09-06,,,Masculino,50.0,"Tosse, Dor de Cabeça",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,52.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,38.0,"Coriza, Outros",,Não
+Araranguá,2024-02-19,,,Feminino,38.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Febre, Dor de Garganta",,Sim
+Araranguá,2024-03-08,,,Feminino,15.0,"Coriza, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-19,,,Masculino,38.0,"Febre, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,30.0,"Coriza, Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,53.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-06-17,,Descartado,Feminino,,Outros,,Não
+Araranguá,2024-05-16,,Descartado,Masculino,,"Tosse, Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,36.0,"Coriza, Outros",,Não
+Araranguá,2024-04-12,Cura,Confirmado Laboratorial,Feminino,,"Outros, Dor de Cabeça",,Não
+Araranguá,2024-09-09,,,Masculino,0.0,"Coriza, Tosse, Febre, Dispneia",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Olfativos, Dor de Cabeça",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-06,,,Masculino,23.0,"Dor de Cabeça, Febre, Dor de Garganta, Outros",,Sim
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,22.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-01-26,Cura,Confirmado Laboratorial,Masculino,29.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,40.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-25,Cura,Confirmado Laboratorial,Feminino,18.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-11,,,Feminino,24.0,"Coriza, Dor de Cabeça, Outros, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,35.0,"Coriza, Dor de Garganta",,Não
+Araranguá,2024-05-03,,,Feminino,28.0,"Coriza, Tosse, Outros",,Sim
+Araranguá,2024-03-01,,,Feminino,,"Febre, Outros",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,27.0,"Dor de Cabeça, Dor de Garganta, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,52.0,"Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-22,,,Feminino,17.0,Dor de Garganta,,Não
+Araranguá,2024-02-15,,Descartado,Feminino,,"Febre, Dor de Cabeça",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-09-02,,,Feminino,,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-05,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-06-18,,,Masculino,1.0,"Tosse, Dispneia",,Não
+Araranguá,2024-05-13,,Descartado,Masculino,31.0,"Dor de Cabeça, Tosse, Febre, Outros",,Não
+Araranguá,2024-04-23,,Descartado,Masculino,7.0,"Tosse, Febre, Coriza",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,23.0,"Coriza, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-01-03,Cura,Confirmado Laboratorial,Feminino,49.0,"Coriza, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-05-28,,Descartado,Masculino,40.0,Assintomático,,Não
+Araranguá,2024-08-05,,,Masculino,2.0,Febre,,Não
+Araranguá,2024-01-03,Cura,Confirmado Laboratorial,Feminino,35.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-08-25,,,Masculino,0.0,"Coriza, Dor de Garganta, Tosse",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-04,,Descartado,Feminino,47.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-05-07,,Descartado,Feminino,,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-09-08,,,Feminino,0.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,31.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-18,,,Masculino,1.0,"Coriza, Tosse, Febre, Dispneia",,Não
+Araranguá,2024-04-05,,,Masculino,0.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-09-10,,,Feminino,39.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-05-14,,,Feminino,2.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,15.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-16,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,23.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-06-12,,Descartado,Feminino,44.0,"Febre, Outros",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,13.0,"Dor de Cabeça, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Feminino,28.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-26,,,Feminino,,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,38.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-08-14,,Descartado,Feminino,37.0,Assintomático,,Não
+Araranguá,2024-01-12,Cura,Confirmado Laboratorial,Masculino,42.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-01-04,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-07-19,,Descartado,Feminino,43.0,"Dor de Cabeça, Outros",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Masculino,42.0,"Distúrbios Gustativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-01-10,,,Masculino,39.0,Outros,,Não
+Araranguá,2024-05-13,,Descartado,Masculino,28.0,"Febre, Outros, Dor de Garganta",,Não
+Araranguá,2024-09-19,,,Masculino,26.0,"Distúrbios Gustativos, Dispneia",,Não
+Araranguá,2024-08-22,,,Masculino,35.0,"Coriza, Tosse, Outros",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-05-23,,,Feminino,27.0,Dor de Cabeça,,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,24.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-09-19,,,Feminino,14.0,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-06-04,,Descartado,Feminino,8.0,"Coriza, Febre, Tosse",,Não
+Araranguá,2024-03-11,,,Feminino,47.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,31.0,"Coriza, Outros, Dor de Cabeça",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,32.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-14,,,Masculino,16.0,"Tosse, Febre, Dispneia",Outros,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Masculino,30.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-05-07,,Descartado,Feminino,5.0,"Tosse, Febre, Outros",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,30.0,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-05-07,,Descartado,Feminino,8.0,"Coriza, Tosse, Febre, Outros",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Feminino,45.0,"Coriza, Distúrbios Gustativos, Distúrbios Olfativos",,Não
+Araranguá,2024-02-28,Cancelado,,Feminino,26.0,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-15,,,Feminino,,"Dor de Cabeça, Coriza",,Não
+Araranguá,2024-02-07,,,Masculino,28.0,"Dor de Garganta, Tosse",,Não
+Araranguá,2024-02-15,,,Masculino,42.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,40.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Feminino,,Coriza,,Não
+Araranguá,2024-04-16,,Descartado,Feminino,39.0,"Dor de Cabeça, Tosse, Dor de Garganta, Febre",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,,"Febre, Outros",,Não
+Araranguá,2024-05-09,,Descartado,Feminino,18.0,"Tosse, Coriza",,Não
+Araranguá,2024-04-01,Cura,Confirmado Laboratorial,Feminino,21.0,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Masculino,39.0,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-01-24,,Descartado,Feminino,,"Dor de Cabeça, Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,52.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-01-02,,,Masculino,41.0,Assintomático,,Não
+Araranguá,2024-03-11,,,Masculino,22.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-07,,,Feminino,40.0,"Febre, Dispneia, Tosse",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,14.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-22,,,Masculino,20.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-27,,,Feminino,38.0,"Coriza, Dor de Garganta, Febre",,Sim
+Araranguá,2024-02-03,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-21,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-24,,,Masculino,13.0,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-04,,Descartado,Feminino,34.0,"Coriza, Dor de Garganta",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Masculino,34.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Masculino,14.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Feminino,51.0,Outros,,Não
+Araranguá,2024-08-26,,,Feminino,15.0,Tosse,,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,20.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,13.0,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,24.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-06-25,,,Feminino,,Dispneia,Outros,Não
+Araranguá,2024-08-21,Cancelado,,Feminino,,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-07-09,,,Masculino,32.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-07,,,Feminino,31.0,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",,Sim
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-07-11,,Descartado,Feminino,54.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-08-22,,Descartado,Feminino,,"Dor de Cabeça, Coriza",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,27.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-29,,Descartado,Feminino,35.0,"Coriza, Tosse, Febre, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-01-10,Cura,Confirmado Laboratorial,Masculino,18.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-01-05,,,Feminino,,"Coriza, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-13,,Descartado,Masculino,7.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-03-01,,,Masculino,32.0,Outros,,Não
+Araranguá,2024-03-04,,,Feminino,24.0,"Tosse, Dispneia, Dor de Cabeça",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Feminino,34.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,41.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-03,,Descartado,Masculino,2.0,"Tosse, Febre, Coriza",,Não
+Araranguá,2024-03-11,,,Feminino,,"Coriza, Tosse",,Não
+Araranguá,2024-05-10,,Descartado,Feminino,21.0,Coriza,,Não
+Araranguá,2024-04-30,,Descartado,Feminino,33.0,"Coriza, Dor de Cabeça, Outros, Febre",,Não
+Araranguá,2024-03-12,Cura,Confirmado Laboratorial,Masculino,23.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-07-08,,,Feminino,46.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-25,,,Masculino,8.0,"Coriza, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,40.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",,Não
+Araranguá,2024-04-12,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-15,,,Masculino,1.0,"Coriza, Tosse",,Não
+Araranguá,2024-08-29,,,Masculino,48.0,"Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,51.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,26.0,"Coriza, Tosse, Outros",,Não
+Araranguá,2024-01-30,Cura,Confirmado Laboratorial,Feminino,33.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",,Não
+Araranguá,2024-04-28,,,Masculino,0.0,"Coriza, Tosse",,Não
+Araranguá,2024-08-14,,Descartado,Feminino,49.0,"Dor de Cabeça, Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,39.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Dor de Cabeça, Outros, Febre",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,46.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-08-30,,,Masculino,49.0,Assintomático,Outros,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Masculino,40.0,"Distúrbios Olfativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-01-16,,,Feminino,12.0,"Dispneia, Febre",Outros,Não
+Araranguá,2024-03-08,,,Feminino,,"Coriza, Outros, Dor de Cabeça",,Não
+Araranguá,2024-05-24,,Descartado,Masculino,31.0,Assintomático,,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Masculino,12.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-08-14,,Descartado,Feminino,48.0,"Febre, Outros",,Não
+Araranguá,2024-01-12,Cura,Confirmado Laboratorial,Masculino,41.0,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,25.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-22,,,Feminino,43.0,Tosse,,Sim
+Araranguá,2024-05-10,Cura,Descartado,Masculino,,Assintomático,,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,50.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-04-07,,,Masculino,1.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-04-01,Cura,Confirmado Laboratorial,Feminino,22.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-09,Cura,Confirmado Laboratorial,Feminino,25.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,24.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-04,Óbito,Confirmado Laboratorial,Masculino,7.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-08,,,Masculino,0.0,"Dor de Cabeça, Tosse, Coriza",,Não
+Araranguá,2024-03-21,,,Feminino,1.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-07-26,,,Feminino,1.0,"Coriza, Outros","Doenças cardíacas crônicas, Outros",Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Feminino,26.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-05-28,,Descartado,Masculino,41.0,Assintomático,,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-09-15,,,Feminino,0.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-08,Cura,Confirmado Laboratorial,Feminino,42.0,"Dispneia, Dor de Garganta, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,43.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Feminino,42.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,22.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-01-08,,,Feminino,45.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-02-20,,,Feminino,48.0,"Tosse, Dispneia, Dor de Cabeça",,Não
+Araranguá,2024-03-01,,,Masculino,31.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse, Febre, Coriza",,Não
+Araranguá,2024-04-19,,Descartado,Feminino,45.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-08-29,,,Feminino,7.0,"Coriza, Tosse, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,24.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,21.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-04-29,,,Masculino,,"Tosse, Dispneia","Doenças cardíacas crônicas, Diabetes",Não
+Araranguá,2024-01-22,,Descartado,Masculino,48.0,Assintomático,,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Feminino,39.0,Dor de Cabeça,,Não
+Araranguá,2024-03-13,,Descartado,Feminino,28.0,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-20,,,Feminino,46.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Febre, Outros",,Sim
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,12.0,"Tosse, Dor de Garganta, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,42.0,"Dor de Cabeça, Dor de Garganta, Febre",,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Feminino,11.0,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-28,,,Feminino,49.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,12.0,"Coriza, Tosse, Outros",,Não
+Araranguá,2024-02-02,,,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Sim
+Araranguá,2024-02-26,,,Feminino,,"Coriza, Febre, Dor de Cabeça",,Não
+Araranguá,2024-08-26,,,Masculino,36.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-14,,Descartado,Feminino,,"Coriza, Tosse",,Não
+Araranguá,2024-04-12,Cura,Confirmado Laboratorial,Feminino,,Coriza,,Não
+Araranguá,2024-01-08,Cura,Confirmado Laboratorial,Feminino,23.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,52.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-01-18,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,44.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,22.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-16,,,Feminino,0.0,"Coriza, Febre",,Não
+Araranguá,2024-02-02,,Descartado,Feminino,27.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Masculino,22.0,Assintomático,,Não
+Araranguá,2024-06-10,,Descartado,Feminino,,"Coriza, Tosse, Dor de Cabeça",,Não
+Araranguá,2024-09-10,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Febre, Coriza",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,38.0,Coriza,,Não
+Araranguá,2024-09-03,,,Feminino,,"Tosse, Dispneia",,Não
+Araranguá,2024-04-02,,Descartado,Feminino,12.0,"Febre, Dor de Garganta",,Não
+Araranguá,2021-07-30,,,Feminino,37.0,"Coriza, Distúrbios Olfativos, Dor de Cabeça, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-14,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,34.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-06-04,,,Feminino,52.0,Assintomático,,Não
+Araranguá,2024-02-02,Cura,Confirmado Laboratorial,Masculino,23.0,"Coriza, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,27.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Masculino,25.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-01-23,,Descartado,Masculino,30.0,Assintomático,,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Masculino,,"Febre, Dor de Garganta, Tosse",,Não
+Araranguá,2024-09-09,Cura,Confirmado Laboratorial,Masculino,,Assintomático,,Não
+Araranguá,2024-01-08,,,Feminino,33.0,"Coriza, Tosse, Dispneia, Dor de Cabeça",,Sim
+Araranguá,2024-04-19,,,Masculino,6.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-28,,,Feminino,19.0,"Febre, Outros, Dor de Cabeça",,Não
+Araranguá,2024-01-28,Cura,Confirmado Laboratorial,Feminino,36.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,41.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Feminino,28.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Masculino,17.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos",,Não
+Araranguá,2024-03-26,,Descartado,Masculino,15.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Masculino,12.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-02,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-01-26,,,Feminino,,"Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,32.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-01-12,Cura,Confirmado Laboratorial,Feminino,45.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-10,,,Masculino,37.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,31.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-19,,,Feminino,35.0,"Coriza, Febre",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,26.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-28,Cura,Confirmado Laboratorial,Masculino,23.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-03-18,,Descartado,Feminino,27.0,"Dor de Cabeça, Febre, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Masculino,29.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,21.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta, Febre",,Não
+Araranguá,2024-03-28,Cura,Confirmado Laboratorial,Feminino,52.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-08-29,,Descartado,Feminino,41.0,"Dor de Garganta, Outros",,Não
+Araranguá,2024-03-15,,Descartado,Masculino,,"Coriza, Febre, Tosse",,Não
+Araranguá,2024-04-25,,,Masculino,27.0,"Tosse, Febre, Dispneia, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,34.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Tosse, Dispneia",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,17.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-07-04,,,Feminino,,"Febre, Outros, Tosse",,Não
+Araranguá,2024-06-21,,Descartado,Masculino,21.0,"Febre, Outros",,Não
+Araranguá,2024-05-04,,,Masculino,1.0,"Tosse, Febre",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Masculino,38.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Febre, Dor de Cabeça",,Não
+Araranguá,2024-04-25,,Descartado,Masculino,41.0,"Outros, Dor de Cabeça",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Masculino,36.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,51.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-22,,,Masculino,,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Feminino,31.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,20.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,53.0,"Dor de Cabeça, Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,51.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-12,,Descartado,Masculino,8.0,"Coriza, Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,9.0,"Febre, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Masculino,21.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-05-23,,Descartado,Masculino,,"Coriza, Dor de Cabeça, Outros, Febre",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Masculino,15.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-01-31,Cura,Confirmado Laboratorial,Masculino,,Outros,,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,46.0,"Distúrbios Olfativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-08-29,,,Feminino,0.0,Coriza,,Não
+Araranguá,2024-01-09,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Feminino,20.0,"Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,52.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-06,,,Masculino,15.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,51.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-04-01,Cura,Confirmado Laboratorial,Masculino,45.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-05-27,,,Masculino,1.0,"Coriza, Tosse, Outros",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-09-26,,,Masculino,14.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,40.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,44.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,28.0,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-03-09,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-20,Cura,Confirmado Laboratorial,Feminino,44.0,"Distúrbios Olfativos, Febre, Dor de Cabeça",,Não
+Araranguá,2024-07-19,,Descartado,Masculino,19.0,Assintomático,,Não
+Araranguá,2024-08-29,,,Feminino,36.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Outros, Coriza",,Não
+Araranguá,2024-03-14,,,Masculino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,40.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-04-23,,Descartado,Feminino,39.0,"Dor de Cabeça, Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,41.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-04,,,Feminino,53.0,"Dor de Cabeça, Dor de Garganta, Outros",,Sim
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Masculino,,Coriza,,Não
+Araranguá,2024-07-05,,Descartado,Masculino,12.0,"Dor de Cabeça, Dor de Garganta, Coriza",,Não
+Araranguá,2024-08-14,,Descartado,Masculino,43.0,"Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-09,,,Feminino,,"Distúrbios Olfativos, Tosse, Febre",,Não
+Araranguá,2024-02-17,Cura,Confirmado Laboratorial,Masculino,25.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-11,,,Feminino,54.0,"Coriza, Tosse, Febre, Outros",Doenças cardíacas crônicas,Não
+Araranguá,2024-03-17,,,Masculino,26.0,"Dispneia, Outros",,Não
+Araranguá,2024-06-06,,Descartado,Masculino,3.0,"Coriza, Tosse",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,16.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,38.0,"Distúrbios Olfativos, Dor de Garganta, Dispneia",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,40.0,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-09-03,,,Feminino,45.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-02-11,Cura,Confirmado Laboratorial,Masculino,0.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,52.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-08-10,,,Masculino,2.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-03-11,,,Masculino,49.0,"Dor de Garganta, Coriza",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,35.0,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,20.0,"Febre, Outros",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,35.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-29,,,Feminino,43.0,"Coriza, Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça, Tosse, Dispneia, Dor de Garganta",,Sim
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,51.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-13,Cura,Confirmado Laboratorial,Masculino,35.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-29,,,Feminino,,"Dor de Cabeça, Dor de Garganta, Tosse",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,18.0,"Dor de Cabeça, Outros, Dor de Garganta",,Não
+Araranguá,2024-02-11,Cura,Confirmado Laboratorial,Masculino,37.0,"Distúrbios Olfativos, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-05-07,,,Feminino,48.0,"Coriza, Dor de Cabeça, Tosse",Diabetes,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Feminino,1.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-05-03,,Descartado,Feminino,52.0,Febre,,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-01-03,,,Feminino,,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-02-27,Cancelado,,Feminino,41.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,43.0,"Dor de Cabeça, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,42.0,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-04-16,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-21,,,Feminino,37.0,"Coriza, Dor de Cabeça, Outros",,Não
+Araranguá,2024-05-29,,,Feminino,26.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-08,,,Feminino,45.0,"Dor de Garganta, Coriza",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,23.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-11,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,17.0,"Dor de Cabeça, Febre, Dor de Garganta",,Não
+Araranguá,2024-08-18,,,Masculino,1.0,"Distúrbios Olfativos, Distúrbios Gustativos, Febre",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-04-02,,,Masculino,,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Tosse, Dor de Garganta",,Não
+Araranguá,2024-01-22,Cura,Confirmado Laboratorial,Feminino,26.0,"Coriza, Distúrbios Olfativos, Tosse, Outros, Dor de Garganta",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-04-23,,Descartado,Masculino,36.0,"Dor de Cabeça, Febre, Outros",,Não
+Araranguá,2024-02-12,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-05,Cura,Confirmado Laboratorial,Masculino,29.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-15,,Descartado,Masculino,41.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-02-15,Cura,Confirmado Laboratorial,Feminino,48.0,"Distúrbios Olfativos, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-01-08,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-02-26,Cura,Confirmado Laboratorial,Feminino,29.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,39.0,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-08-31,,,Feminino,4.0,Assintomático,,Não
+Araranguá,2024-04-06,Cura,Confirmado Laboratorial,Feminino,28.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,,Coriza,,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,45.0,"Coriza, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Feminino,48.0,"Distúrbios Olfativos, Febre, Dispneia",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,37.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-09-09,,Descartado,Masculino,,Assintomático,,Não
+Araranguá,2024-04-02,,Descartado,Masculino,46.0,"Febre, Dor de Garganta, Outros",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Masculino,,"Coriza, Febre, Dor de Cabeça",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,30.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-08,,Descartado,Masculino,,"Coriza, Dor de Garganta, Tosse",,Não
+Araranguá,2024-08-19,,,Feminino,47.0,"Tosse, Dor de Garganta",,Sim
+Araranguá,2024-03-02,,,Masculino,1.0,"Coriza, Febre, Dispneia","Doenças cardíacas crônicas, Outros",Não
+Araranguá,2024-09-15,,,Feminino,50.0,"Coriza, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Olfativos, Febre",,Não
+Araranguá,2024-03-12,,,Feminino,24.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-01-24,,,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-02-19,,Descartado,Feminino,23.0,"Dor de Cabeça, Dor de Garganta, Febre",,Não
+Araranguá,2024-02-27,,Descartado,Feminino,38.0,Febre,,Não
+Araranguá,2024-03-11,Cura,Confirmado Laboratorial,Feminino,44.0,"Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Distúrbios Gustativos",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,35.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-29,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Febre, Distúrbios Olfativos",,Não
+Araranguá,2024-02-11,Cura,Confirmado Laboratorial,Feminino,46.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-08,Cura,Confirmado Laboratorial,Feminino,32.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Masculino,47.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,31.0,"Distúrbios Olfativos, Dor de Cabeça, Coriza",,Não
+Araranguá,2024-03-09,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-07-16,,,Masculino,13.0,"Coriza, Febre",,Não
+Araranguá,2024-08-29,,,Feminino,25.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-18,Cura,Confirmado Laboratorial,Feminino,32.0,"Coriza, Tosse, Dor de Garganta",,Não
+Araranguá,2024-05-29,Cura,Confirmado Laboratorial,Feminino,33.0,"Coriza, Febre, Outros",,Não
+Araranguá,2024-01-28,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dispneia, Dor de Cabeça",,Não
+Araranguá,2024-09-24,,,Feminino,38.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-02,Óbito,Confirmado Laboratorial,Feminino,42.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-30,,,Feminino,28.0,"Coriza, Tosse, Febre, Dor de Cabeça",,Não
+Araranguá,2024-03-26,,,Feminino,40.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-16,Cura,Confirmado Laboratorial,Masculino,35.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-08-24,,,Masculino,1.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-03-15,Cura,Confirmado Laboratorial,Feminino,45.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-15,,,Masculino,45.0,"Dor de Cabeça, Tosse, Outros",,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,20.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,47.0,"Coriza, Febre, Dor de Cabeça",,Não
+Araranguá,2024-05-15,,Descartado,Feminino,2.0,"Tosse, Febre",,Não
+Araranguá,2024-03-14,Cura,Confirmado Laboratorial,Feminino,34.0,"Distúrbios Olfativos, Distúrbios Gustativos, Febre",,Não
+Araranguá,2024-02-02,,Descartado,Feminino,40.0,"Outros, Dor de Cabeça",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Feminino,51.0,"Distúrbios Gustativos, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-02-08,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Febre, Dispneia",,Não
+Araranguá,2024-02-27,Cura,Confirmado Laboratorial,Masculino,13.0,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,53.0,"Distúrbios Olfativos, Distúrbios Gustativos, Tosse",,Não
+Araranguá,2024-01-08,,,Feminino,36.0,"Dor de Cabeça, Tosse, Dor de Garganta",,Sim
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Tosse, Febre",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Distúrbios Gustativos, Coriza",,Não
+Araranguá,2024-03-02,Cura,Confirmado Laboratorial,Masculino,16.0,"Distúrbios Gustativos, Tosse, Dispneia",,Não
+Araranguá,2024-06-04,,Descartado,Feminino,38.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-02-12,,,Feminino,,"Dor de Cabeça, Tosse, Outros",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-05-29,,,Masculino,2.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-06-21,,Descartado,Masculino,20.0,"Distúrbios Olfativos, Dispneia, Dor de Garganta, Outros",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Masculino,,"Dor de Cabeça, Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-07-19,,,Feminino,,"Tosse, Outros","Diabetes, Outros",Não
+Araranguá,2024-01-01,Cura,Confirmado Laboratorial,Masculino,32.0,"Tosse, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-01-18,Cura,Confirmado Laboratorial,Masculino,,"Tosse, Dispneia",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-03-15,,,Masculino,4.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-09-01,,,Masculino,0.0,"Coriza, Tosse, Dispneia",,Não
+Araranguá,2024-08-09,,,Masculino,0.0,"Coriza, Tosse, Febre",,Não
+Araranguá,2024-09-11,,,Feminino,28.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-02-20,Cura,Confirmado Laboratorial,Masculino,33.0,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-01-10,,,Masculino,46.0,"Coriza, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Masculino,28.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,33.0,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-02-21,Cura,Confirmado Laboratorial,Feminino,42.0,"Distúrbios Olfativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-06-06,,Descartado,Feminino,23.0,"Coriza, Dor de Cabeça, Tosse, Dor de Garganta",,Não
+Araranguá,2024-09-05,,,Feminino,11.0,"Coriza, Tosse, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-04,Cura,Confirmado Laboratorial,Masculino,18.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Feminino,41.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-06-21,,,Feminino,47.0,Outros,,Não
+Araranguá,2024-05-09,,Descartado,Feminino,37.0,Assintomático,,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-06-03,,Descartado,Feminino,46.0,"Coriza, Dor de Cabeça",,Não
+Araranguá,2024-06-17,,,Masculino,3.0,"Coriza, Tosse, Febre, Dispneia",Outros,Não
+Araranguá,2024-02-28,Cura,Confirmado Laboratorial,Feminino,35.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-03-25,,,Masculino,13.0,"Coriza, Dor de Cabeça, Tosse, Febre",,Não
+Araranguá,2024-03-07,Cura,Confirmado Laboratorial,Feminino,49.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,15.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-02-23,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-08-22,,Descartado,Masculino,7.0,"Coriza, Tosse, Outros, Febre",,Não
+Araranguá,2024-03-25,,,Feminino,23.0,"Coriza, Dor de Cabeça, Tosse, Febre, Dor de Garganta",Outros,Sim
+Araranguá,2024-05-09,,Descartado,Masculino,14.0,"Coriza, Tosse, Dor de Garganta, Outros, Dor de Cabeça",,Não
+Araranguá,2024-05-28,,,Feminino,,Assintomático,,Não
+Araranguá,2024-02-07,Cura,Confirmado Laboratorial,Masculino,19.0,"Coriza, Dor de Cabeça, Dispneia",,Não
+Araranguá,2024-01-17,Cura,Confirmado Laboratorial,Masculino,,"Distúrbios Gustativos, Dor de Cabeça, Coriza",,Não
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,31.0,"Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-03-15,,,Feminino,33.0,Coriza,,Sim
+Araranguá,2024-02-22,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Febre",,Não
+Araranguá,2024-02-09,Cura,Confirmado Laboratorial,Feminino,27.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-03-08,,,Masculino,19.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-05-28,,,Masculino,,Febre,Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-09-20,,,Feminino,0.0,"Coriza, Tosse",Doenças respiratórias crônicas descompensadas,Não
+Araranguá,2024-02-19,,Descartado,Feminino,11.0,"Dor de Cabeça, Tosse, Febre, Outros",,Não
+Araranguá,2024-02-14,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2024-04-02,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2024-05-13,,Descartado,Feminino,,"Coriza, Tosse",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Feminino,36.0,"Coriza, Tosse, Outros",,Não
+Araranguá,2024-02-25,Cura,Confirmado Laboratorial,Feminino,,"Dor de Cabeça, Febre, Dispneia",,Não
+Araranguá,2024-09-09,,Descartado,Masculino,,"Outros, Distúrbios Gustativos",,Não
+Araranguá,2024-03-01,Cura,Confirmado Laboratorial,Feminino,44.0,Outros,,Não
+Araranguá,2024-01-10,Cura,Confirmado Laboratorial,Masculino,18.0,"Coriza, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-09-12,,,Feminino,32.0,"Tosse, Dor de Garganta, Coriza",,Não
+Araranguá,2024-03-08,Cancelado,,Masculino,26.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,37.0,"Outros, Coriza",,Não
+Araranguá,2024-06-24,,Descartado,Feminino,12.0,"Coriza, Dor de Cabeça, Tosse, Febre, Outros",,Não
+Araranguá,2024-02-09,Cura,Confirmado Laboratorial,Feminino,20.0,"Distúrbios Olfativos, Tosse, Dispneia",,Não
+Araranguá,2024-03-08,Cura,Confirmado Laboratorial,Feminino,,"Coriza, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2024-06-26,,,Masculino,0.0,Assintomático,,Não
+Araranguá,2024-08-22,,Descartado,Feminino,39.0,"Distúrbios Gustativos, Tosse, Febre, Outros",,Não
+Araranguá,2024-03-19,Cura,Confirmado Laboratorial,Feminino,35.0,"Tosse, Febre, Dispneia",,Não
+Araranguá,2024-04-16,,Descartado,Masculino,6.0,"Coriza, Tosse, Dor de Garganta, Dor de Cabeça",,Não
+Araranguá,2024-02-19,Cura,Confirmado Laboratorial,Masculino,10.0,"Distúrbios Gustativos, Dispneia, Dor de Garganta",,Não
+Araranguá,2024-03-05,Cura,Confirmado Laboratorial,Masculino,1.0,"Distúrbios Gustativos, Febre, Dor de Garganta",,Não
+Araranguá,2024-01-11,Cura,Confirmado Laboratorial,Masculino,19.0,"Coriza, Dor de Cabeça, Tosse",,Não
+Araranguá,2024-03-06,Cura,Confirmado Laboratorial,Feminino,51.0,"Distúrbios Olfativos, Dor de Cabeça, Febre",,Não
+Araranguá,2023-12-17,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
+Araranguá,2023-12-29,Cura,Confirmado Laboratorial,Feminino,,"Distúrbios Gustativos, Dor de Cabeça, Dor de Garganta",,Não
+Araranguá,2023-12-31,Cura,Confirmado Laboratorial,Masculino,41.0,"Coriza, Distúrbios Gustativos, Dor de Cabeça",,Não
+Araranguá,2023-12-28,Cura,Confirmado Laboratorial,Feminino,3.0,"Distúrbios Olfativos, Febre, Dor de Garganta",,Não
+Araranguá,2023-12-15,Cura,Confirmado Laboratorial,Feminino,40.0,"Distúrbios Olfativos, Dor de Cabeça, Tosse",,Não
