@@ -2,13 +2,6 @@ import cv2 as cv
 import numpy as np
 import math
 
-# Carregar o modelo YuNet
-model = 'face_detection_yunet_2023mar.onnx'
-input_size = (640, 640)
-face_detector = cv.FaceDetectorYN.create(
-    model, "", input_size, score_threshold=0.8, nms_threshold=0.3,
-    top_k=5000, backend_id=cv.dnn.DNN_BACKEND_OPENCV, target_id=cv.dnn.DNN_TARGET_CPU
-)
 
 def calculate_face_angle(left_eye, right_eye):
     dx = right_eye[0] - left_eye[0]
@@ -23,11 +16,38 @@ def get_face_orientation(angle):
         return "Virando para a esquerda"
     else:
         return "Virando para a direita"
+    
 
-# Captura de vídeo da webcam
-cap = cv.VideoCapture(0)
+# Carregar o modelo YuNet
+model = 'face_detection_yunet_2023mar.onnx'
+#input_size = (320,240)  # Tamanho de entrada do modelo
+input_size = (1280,720)
 
-while cap.isOpened():
+face_detector = cv.FaceDetectorYN.create(
+    model, "", input_size, score_threshold=0.8, nms_threshold=0.3,
+    top_k=5000, backend_id=cv.dnn.DNN_BACKEND_OPENCV, target_id=cv.dnn.DNN_TARGET_CPU
+)
+
+# Definir o endereço da ESP32-CAM
+ip = 'http://192.168.0.107'
+stream_url = f"{ip}:81/stream"
+cap = cv.VideoCapture(stream_url)
+
+if not cap.isOpened():
+    print("Não foi possível conectar ao stream da ESP32-CAM")
+    exit()
+
+# Configurar o tamanho do frame da captura de vídeo
+ret, frame = cap.read()
+if not ret:
+    print("Falha na captura de vídeo")
+    exit()
+
+frame_height, frame_width = frame.shape[:2]
+face_detector.setInputSize((frame_width, frame_height))
+
+#while cap.isOpened():
+while True:
     ret, frame = cap.read()
     if not ret:
         print("Falha na captura de vídeo")

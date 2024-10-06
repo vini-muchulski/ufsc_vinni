@@ -12,8 +12,9 @@ face_detector = cv.FaceDetectorYN.create(
 )
 
 # Definir o endereço da ESP32-CAM
-esp32_cam_url = 'http://192.168.0.118:81/stream'
-cap = cv.VideoCapture(esp32_cam_url)
+ip = 'http://192.168.0.107'
+stream_url = f"{ip}:81/stream"
+cap = cv.VideoCapture(stream_url)
 
 if not cap.isOpened():
     print("Não foi possível conectar ao stream da ESP32-CAM")
@@ -54,7 +55,7 @@ while True:
                 cv.circle(frame, (lx, ly), 2, (0, 0, 255), -1)
 
     # Exibir o vídeo com as detecções
-    cv.imshow('Detecção Facial com YuNet', frame)
+    cv.imshow('Deteccaoo Facial com YuNet', frame)
 
     # Sair do loop ao pressionar a tecla 'q'
     if cv.waitKey(1) & 0xFF == ord('q'):
