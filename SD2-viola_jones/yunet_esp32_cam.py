@@ -12,7 +12,7 @@ face_detector = cv.FaceDetectorYN.create(
 )
 
 # Definir o endereço da ESP32-CAM
-ip = 'http://192.168.0.107'
+ip = 'http://192.168.0.191'
 stream_url = f"{ip}:81/stream"
 cap = cv.VideoCapture(stream_url)
 
