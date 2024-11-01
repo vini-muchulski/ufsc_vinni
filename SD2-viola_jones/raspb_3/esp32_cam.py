@@ -5,10 +5,14 @@ ip = 'http://192.168.0.105'
 stream_url = f"{ip}:81/stream"
 cap = cv.VideoCapture(stream_url)
 
-# Verificar se o vídeo está aberto
+
 if not cap.isOpened():
     print("Não foi possível conectar ao stream da ESP32-CAM")
     exit()
+
+# cv.destroyAllWindows()
+# Criar a janela antes do loop
+cv.namedWindow('Stream', cv.WINDOW_NORMAL)
 
 # Loop de captura e exibição de vídeo
 while True:
@@ -17,10 +21,9 @@ while True:
         print("Falha na captura de vídeo")
         break
 
-    # Exibir o vídeo em uma janela
-    cv.imshow('Stream de Vídeo', frame)
+    
+    cv.imshow('Stream', frame)
 
-    # Fechar a janela ao pressionar 'q'
     if cv.waitKey(1) & 0xFF == ord('q'):
         break
 
