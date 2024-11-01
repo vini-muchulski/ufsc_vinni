@@ -1,5 +1,5 @@
 import cv2 as cv
-import numpy as np
+
 
 
 model = 'face_detection_yunet_2023mar.onnx'
@@ -12,7 +12,7 @@ face_detector = cv.FaceDetectorYN.create(
 )
 
 
-ip = 'http://192.168.0.107'
+ip = 'http://192.168.0.105'
 stream_url = f"{ip}:81/stream"
 cap = cv.VideoCapture(stream_url)
 
