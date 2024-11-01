@@ -5,3 +5,7 @@ https://www.youtube.com/playlist?list=PLP_dh3S9H39kM3aQ-ROyVJwKilzlS0hkG
 https://github.com/ageitgey/face_recognition
 
 https://medium.com/pythons-gurus/what-is-the-best-face-detector-ab650d8c1225
+
+https://qengineering.eu/install-opencv-on-raspberry-pi.html
+
+https://dev.to/tassi/opencv-raspberry-pi-como-configurar-o-ambiente-m3c
