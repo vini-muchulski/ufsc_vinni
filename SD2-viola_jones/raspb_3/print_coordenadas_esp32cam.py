@@ -24,31 +24,25 @@ if not ret:
 frame_height, frame_width = frame.shape[:2]
 face_detector.setInputSize((frame_width, frame_height))
 
-# Criar a janela antes do loop
-cv.namedWindow('Deteccao_Facial', cv.WINDOW_NORMAL)
-
 while True:
     ret, frame = cap.read()
     if not ret:
         print("Falha na captura de vídeo")
         break
- 
+
     faces = face_detector.detect(frame)
 
     if faces[1] is not None:
         for face in faces[1]:
             x, y, w, h = face[:4].astype(int)
-            cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
-            landmarks = face[4:14].reshape((5, 2)).astype(int)
-            
-            for (lx, ly) in landmarks:
-                cv.circle(frame, (lx, ly), 2, (0, 0, 255), -1)
+            center_x = x + w / 2
+            center_y = y + h / 2
+            print(f"Centro da face: ({center_x}, {center_y})")
+    else:
+        print("Nenhuma face detectada.")
 
-    # Exibir o vídeo na janela criada
-    cv.imshow('Deteccao_Facial', frame)
-
+    # Pequena pausa para não sobrecarregar o sistema
     if cv.waitKey(1) & 0xFF == ord('q'):
         break
 
 cap.release()
-cv.destroyAllWindows()
