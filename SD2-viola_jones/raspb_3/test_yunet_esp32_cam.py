@@ -1,6 +1,6 @@
 import cv2 as cv
 
-model = 'face_detection_yunet_2022mar.onnx'
+model = 'face_detection_yunet_2023mar.onnx'
 input_size = (320, 320)  # Tamanho de entrada do modelo
 
 face_detector = cv.FaceDetectorYN.create(
