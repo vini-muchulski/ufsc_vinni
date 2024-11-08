@@ -1,5 +1,5 @@
 https://raspberrypi-guide.github.io/programming/install-opencv
-
+https://www.youtube.com/watch?v=QzVYnG-WaM4
 
 sudo apt update
 sudo apt upgrade -y
