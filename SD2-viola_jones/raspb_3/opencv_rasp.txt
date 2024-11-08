@@ -1,3 +1,6 @@
+https://raspberrypi-guide.github.io/programming/install-opencv
+
+
 sudo apt update
 sudo apt upgrade -y
 sudo apt install -y build-essential cmake git libgtk-3-dev libboost-all-dev \

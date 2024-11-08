@@ -7,16 +7,16 @@ import cv2
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 
-WebCamera = cv2.VideoCapture(0)
+"""WebCamera = cv2.VideoCapture(0)
 
 #REAJUSTE DE RESOLUCAO
 WebCamera.set(cv2.CAP_PROP_FRAME_WIDTH, 320)
-WebCamera.set(cv2.CAP_PROP_FRAME_HEIGHT, 240)
+WebCamera.set(cv2.CAP_PROP_FRAME_HEIGHT, 240)"""
 
 
 
 
-"""
+
 # URL completa para acessar o stream de vídeo do ESP32-CAM
 ip = "http://192.168.0.120"
 
@@ -25,7 +25,7 @@ stream_url = f"{ip}:81/stream"
 
 # Inicializa a captura de vídeo com o URL do stream
 WebCamera = cv2.VideoCapture(stream_url)
-"""
+
 # Criar a janela antes do loop
 cv2.namedWindow('Deteccao_Facial', cv2.WINDOW_NORMAL)
 
