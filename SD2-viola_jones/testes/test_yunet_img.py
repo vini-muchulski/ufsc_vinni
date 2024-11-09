@@ -3,37 +3,30 @@ import numpy as np
 
 # Carregar o modelo YuNet
 model = 'face_detection_yunet_2023mar.onnx'
-input_size = (640, 640)
+input_size = (640,640)
+
+
 face_detector = cv.FaceDetectorYN.create(
     model, "", input_size, score_threshold=0.8, nms_threshold=0.3,
     top_k=5000, backend_id=cv.dnn.DNN_BACKEND_OPENCV, target_id=cv.dnn.DNN_TARGET_CPU
 )
 
+# Carregar a imagem
+image_path = "imagem2.jpg"
+frame = cv.imread(image_path)
 
-
-# Captura de vídeo da webcam
-cap = cv.VideoCapture(0)
-
-while cap.isOpened():
-    ret, frame = cap.read()
-    if not ret:
-        print("Falha na captura de vídeo")
-        break
-
-    # Pré-processamento (opcional)
-    # frame = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
-    # frame = cv.equalizeHist(frame)
-    # frame = cv.cvtColor(frame, cv.COLOR_GRAY2BGR)
-
-    # Redimensionar o frame para o tamanho de entrada
+if frame is None:
+    print(f"Erro ao carregar a imagem {image_path}")
+else:
+    # Redimensionar a imagem para o tamanho de entrada do modelo
     resized_frame = cv.resize(frame, input_size)
 
-    
+    # Realizar a detecção facial na imagem redimensionada
     faces = face_detector.detect(resized_frame)
 
     if faces[1] is not None:
         for face in faces[1]:
-            # Escalar as coordenadas de volta para o tamanho original
+            # Escalar as coordenadas de volta para o tamanho original da imagem
             face = face.astype(int)
             x, y, w, h = face[:4]
             x = int(x * frame.shape[1] / input_size[0])
@@ -51,13 +44,7 @@ while cap.isOpened():
                 ly = int(ly * frame.shape[0] / input_size[1])
                 cv.circle(frame, (lx, ly), 2, (0, 0, 255), -1)
 
-           
-
-    # Exibir o vídeo com as detecções
+    # Exibir a imagem com as detecções
     cv.imshow('Deteccao Facial com YuNet', frame)
-
-    if cv.waitKey(1) & 0xFF == ord('q'):
-        break
-
-cap.release()
-cv.destroyAllWindows()
+    cv.waitKey(0)
+    cv.destroyAllWindows()

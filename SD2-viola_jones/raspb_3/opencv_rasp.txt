@@ -1,5 +1,6 @@
 https://raspberrypi-guide.github.io/programming/install-opencv
 https://www.youtube.com/watch?v=QzVYnG-WaM4
+https://github.com/Mr-PU/YUNet/blob/main/YUNET%20-%20Face%20Detection.ipynb
 
 sudo apt update
 sudo apt upgrade -y
