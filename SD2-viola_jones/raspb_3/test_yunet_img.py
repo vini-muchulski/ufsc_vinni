@@ -12,7 +12,7 @@ face_detector = cv.FaceDetectorYN.create(
 )
 
 # Carregar a imagem
-image_path = "imagem2.jpg"
+image_path = "img_lateral.jpeg"
 frame = cv.imread(image_path)
 
 if frame is None:
@@ -34,7 +34,7 @@ else:
             w = int(w * frame.shape[1] / input_size[0])
             h = int(h * frame.shape[0] / input_size[1])
 
-            # Desenhar a caixa delimitadora ao redor do rosto
+            # Desenhar a caixa delimitadora ao redor do rostoquero 
             cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
 
             # Desenhar os pontos dos olhos, nariz e boca
